@@ -11,7 +11,6 @@ class Solution
     static int result;
     //static int[] weights;
     //static boolean[] visit;
-
     public static void main(String args[]) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
