@@ -16,10 +16,17 @@
 
 ### 2주차
 [5643. [Professional] 키 순서](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AWXQsLWKd5cDFAUo&categoryId=AWXQsLWKd5cDFAUo&categoryType=CODE&problemTitle=pro&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1) ⭐
-- 일반적으로 위상 정렬, BFS 알고리즘을 사용하여 해결할 수 있는 문제였으나 플로이드 위셜 알고리즘으로도 해결할 수 있다는 인사이트를 얻을 수 있었던 문제, 하지만 최단 경로 알고리즘 중 다익스트라로는 해결할 수 없는데 그 이유에 대해서는 다시금 생각해보자...!
+- 일반적으로 위상 정렬, BFS 알고리즘을 사용하여 해결할 수 있는 문제였으나 플로이드 위셜 알고리즘으로도 해결할 수 있다는 인사이트를 얻을 수 있었던 문제, 하지만 최단 경로 알고리즘 중 다익스트라로는 해결할 수 없다.
+- 플로이드 워셜은 O(N^3)의 시간 복잡도로 전체 정점을 돌면서 연결 여부를 완전 탐색 해주는데 반해, 다익스트라는 그리디(우선순위 큐)를 사용하여 내가 현재 있는 정점에서 갈 수 있는 가장 빠른 경로를 선택한다.
+- 이렇게 최선의 경로만 선택해서 진행하다보면, 비효율적인 루트에 속한 일부 정점들에 대해 방문 처리가 안 될 수도 있다. => 즉, 키 순서에 관한 모든 사람의 수를 체크할 수 없어지기 떄문에 불가능하다.
 
 [3234. 준환이의 양팔저울](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AWAe7XSKfUUDFAUw&categoryId=AWAe7XSKfUUDFAUw&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=2) ⭐
 - 완전 탐색을 수행하여 모든 경우를 다 따져보는 것은 불가능하기 때문에 백트래킹을 수행하면서 어떻게 효율적으로 가지치기를 할 수 있을지 고민해볼 수 있었던 문제, 이에 더해 동일 코드가 C++에서는 시간 초과가 나는 문제에 봉착하여 Java와 C++의 메모리 관리 방식 또한 공부해볼 수 있었다.
+- 자바에서는 지역 변수를 통한 최적화를 하면 적당한 가지치기 안에 돌지만, C++로 통과하기 위해서는 하나의 핵심 아이디어를 더 추가해줘야 한다.
+- right에 추를 어떤 순서로 올려도 결과에 영향을 미치지 않은 경우가 나오면, 팩토리얼을 사용한 순열 계산을 통해 경우의 수를 직접 구해줄 수 있다. (이 방법으로 가지치기 한 번 더 수행하기)
 
 [1824. 혁진이의 프로그램 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AV4yLUiKDUoDFAUx&categoryId=AV4yLUiKDUoDFAUx&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=CCPP&select-1=4&pageSize=10&pageIndex=1) ⭐
 - 문제에서 주어진대로만 작성하며 시뮬레이션하면 되는 문제였다. 하지만 현재 좌표에 도달했을 때의 메모리 숫자와 방향을 고려하며 도착점에 도달이 가능한지를 따져보기 위해 4차원 배열을 사용한다는 점에서 나름 고민해볼 수 있었던 문제
+- 특별히 4차원 배열을 사용한 이유가 사이클 처리 때문임을 알아야 한다.
+- 주어진 조건이 x, y 좌표 뿐만 아니라 메모리와 방향도 있기 때문에 단순 방문 처리로는 사이클 처리가 불가능하다. 저 4개 조건이 모두 같은 상태로 재방문할 때 사이클을 빠져나갈 수 없다.
+- '?' 좌표는 4방향으로 모두 움직일 수 있기 때문에, 4개 방향에 대한 모든 탈출 가능성을 백트래킹으로 체크하는 것도 중요했다.
