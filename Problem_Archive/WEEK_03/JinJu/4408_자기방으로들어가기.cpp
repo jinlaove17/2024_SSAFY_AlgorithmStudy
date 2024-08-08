@@ -1,11 +1,11 @@
 #include <iostream>
 #include <cstring>
 using namespace std;
-constexpr size_t MAX_NUM = 1001;
+constexpr size_t MAX = 1001;
 
-int startR[MAX_NUM] = { 0 };
-int endR[MAX_NUM] = { 0 };
-int cnt[201] = { 0 }; // 복도에서 겹치는 수 count
+int startR[MAX] = { 0 };
+int endR[MAX] = { 0 };
+int cnt[201] = { 0 };
 
 int maxNum() {
     int num = 0;
