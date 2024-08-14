@@ -8,7 +8,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Solution {
+public class SWEA_9282 {
 	
 	static int n, m;
 	static int[][] map;
