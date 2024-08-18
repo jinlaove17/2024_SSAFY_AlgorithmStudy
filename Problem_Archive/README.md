@@ -35,12 +35,15 @@
 ### <hr>3주차
 [1251. [S/W 문제해결 응용] 4일차 - 하나로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD&categoryId=AV15StKqAQkCFAYD&categoryType=CODE&problemTitle=%ED%95%98%EB%82%98%EB%A1%9C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 - 최소 비용으로 모든 섬을 연결해야 하는 MST 문제였다. 입력 값으로 간선은 주어지지 않고 정점의 위치(x, y)가 주어지기 때문에 두 점 사이의 거리를 비용으로 하는 간선을 직접 만들어야 한다. 이 경우 노드가 N개일 때 N(N - 1)/2개의 간선이 만들어지는데 간선 기반인 크루스칼 알고리즘과 정점 기반인 프림 알고리즘은 각각 700ms, 526ms의 실행 시간이 걸렸다.
+- 정점의 위치 좌표로 간선의 가중치를 직접 계산해줘야 하기 때문에 간선 위주의 풀이(Kruskal)와 정점 위주의 풀이(Prim) 중 처리가 더 편한 것 vs 시간이 더 빠른 것을 개인의 선택에 맡긴 문제였다. 
 
 [4408. 자기 방으로 돌아가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AWNcJ2sapZMDFAV8&categoryId=AWNcJ2sapZMDFAV8&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=CCPP&select-1=4&pageSize=10&pageIndex=2)
 - 각 학생들의 출발점과 도착점이 주어질 때, 매번 이동 시 동선이 겹치지 않으면서 이동할 경우 걸리는 최단 시간을 구하는 문제였다. 주어진 그림에서 홀수 방은 위쪽에 짝수 방은 아래쪽에 배치되어 있는데 사실 이 문제는 구간이 겹치는지만 확인하면 되므로 위/아래에 대응되는 방을 같은 구간으로 처리해도 상관 없다. 중요한 점은 그림에서는 항상 방 번호가 작은 방에서 큰 방으로 이동하는 것처럼 주어지지만 방 번호가 큰 방에서 작은 방으로 이동하는 경우도 존재한다는 점을 고려해야 한다는 것이다. 이에따라 도착점이 큰 학생을 기준으로 하는 최대 힙을 사용하는 알고리즘은 적용할 수 없었다.
+- 출발점과 도착점을 하나의 구간(세그먼트) 로 이해하는 것이 핵심 아이디어였다.
 
 [2819. 격자판의 숫자 이어 붙이기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AV7I5fgqEogDFAXB&categoryId=AV7I5fgqEogDFAXB&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1)
 - 전형적인 완전 탐색 문제였다. DFS를 이용하여 완전 탐색을 진행했으며 문제에서 주어진 칸을 재방문해도 상관 없다고 했으므로 이를 고려하여 재귀 함수를 구현하면 된다. 현재까지 지나온 칸의 번호를 String이 아닌 bit masking을 이용해서 풀어보자.
+- 수의 조합이 중복될 수 있으므로 set을 사용하면 된다.
 
 ### <hr>4주차
 [5653. [모의 SW 역량테스트] 줄기세포배양](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo&categoryId=AWXRJ8EKe48DFAUo&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) ⭐
