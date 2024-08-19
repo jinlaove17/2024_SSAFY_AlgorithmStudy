@@ -49,6 +49,7 @@
 [5653. [모의 SW 역량테스트] 줄기세포배양](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo&categoryId=AWXRJ8EKe48DFAUo&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) ⭐
 - 세포가 무한히 증식하기 때문에 맵의 크기에 제한이 없다고 나오지만 최악의 경우 가장 끝에서 K가 300일 때 증식이 일어나면 최대 150만큼 커질 수 있다는 것을 알 수 있다. 적당한 맵의 크기를 설정한 후 주어진 조건에 따라 세포의 증식을 구현할 때 생명력이 높은 세포부터 증식하는 과정을 우선순위 큐, 변화량을 저장하는 2차원 배열 등을 사용하여 다양하게 구현해볼 수 있었다.
 - Map 크기의 가능한 max를 계산하여 설정해주는 아이디어와 Cell의 상태를 표현하기 위해 특별한 구조체(class)를 활용하여 탐색하는 아이디어를 배웠다.
+- 삼성 공채 시험에서 출제되는 유형과 비슷한 문제로 문제에 주어진 조건 그대로를 구현하면 되는 문제였다. 세포가 증식할 때의 최대 크기를 정해준 다음 구현을 하는 것이 포인트였다.
 
 [1248. [S/W 문제해결 응용] 3일차 - 공통조상](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=5&contestProbId=AV15PTkqAPYCFAYD&categoryId=AV15PTkqAPYCFAYD&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=5&pageSize=10&pageIndex=1)
 - 주어진 두 노드를 시작 정점으로 하여 첫 번째 노드에서 시작해 루트 노드 사이의 모든 노드를 flag 배열에 저장한 다음, 두 번째 노드에서 루트 노드로 진행하면서 flag인 정점을 찾았다면 그 노드가 공통 조상 노드임을 알 수 있고, 그 노드에서 BFS 탐색을 통해 서브 트리를 구할 수 있었다.
