@@ -40,6 +40,8 @@
 [4408. 자기 방으로 돌아가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AWNcJ2sapZMDFAV8&categoryId=AWNcJ2sapZMDFAV8&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=CCPP&select-1=4&pageSize=10&pageIndex=2)
 - 각 학생들의 출발점과 도착점이 주어질 때, 매번 이동 시 동선이 겹치지 않으면서 이동할 경우 걸리는 최단 시간을 구하는 문제였다. 주어진 그림에서 홀수 방은 위쪽에 짝수 방은 아래쪽에 배치되어 있는데 사실 이 문제는 구간이 겹치는지만 확인하면 되므로 위/아래에 대응되는 방을 같은 구간으로 처리해도 상관 없다. 중요한 점은 그림에서는 항상 방 번호가 작은 방에서 큰 방으로 이동하는 것처럼 주어지지만 방 번호가 큰 방에서 작은 방으로 이동하는 경우도 존재한다는 점을 고려해야 한다는 것이다. 이에따라 도착점이 큰 학생을 기준으로 하는 최대 힙을 사용하는 알고리즘은 적용할 수 없었다.
 - 출발점과 도착점을 하나의 구간(세그먼트) 로 이해하는 것이 핵심 아이디어였다.
+- 해당 문제는 출발지점이 도착지점보다 낮은 인덱스 값을 갖는다라는 조건이 존재하지 않아 임의로 두 개의 입력 값 중 작은 것을 출발지점으로 큰 것을 도착지점으로 간주해 배열에 저장했습니다. 학생들의 출발 지점을 기준으로 오름차순으로 정렬하되 출발 지점 값이 같게 되면 도착 지점을 기준으로 오름차순으로 정렬을 했습니다. 한 학생의 도착 지점보다 출발 지점이 먼 학생은 동시에 이동을 할 수 있으며 이 때 도착 지점은 두 학생 중 더 먼 도착 지점으로 업데이트를 해줍니다. 이를 통해 한 번에 이동할 수 있는 학생을 파악한 후 boolean 배열에 true로 설정해 해당 학생은 지나갔다는 것을 표시해준뒤 반복문을 수행하게 되면 문제를 풀 수 있었습니다.
+- 추가적으로 방 길이만큼 정수형 배열을 선언한 뒤 한 학생의 출발 지점과 도착 지점 사이의 인덱스들을 모두 +1씩 수행해줍니다. 학생의 수만큼 해당 작업을 반복해주고 설정해준 정수형 배열에서 최대값 = 그 지점을 무조건 지나는 학생 수이며 이는 동시에 발생할 수 없는 것이며 해당 배열에 적힌 횟수만큼의 시간이 흘려야된다는 것을 의미하며 정답으로 도출됩니다.
 
 [2819. 격자판의 숫자 이어 붙이기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AV7I5fgqEogDFAXB&categoryId=AV7I5fgqEogDFAXB&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1)
 - 전형적인 완전 탐색 문제였다. DFS를 이용하여 완전 탐색을 진행했으며 문제에서 주어진 칸을 재방문해도 상관 없다고 했으므로 이를 고려하여 재귀 함수를 구현하면 된다. 현재까지 지나온 칸의 번호를 String이 아닌 bit masking을 이용해서 풀어보자.
@@ -50,6 +52,7 @@
 - 세포가 무한히 증식하기 때문에 맵의 크기에 제한이 없다고 나오지만 최악의 경우 가장 끝에서 K가 300일 때 증식이 일어나면 최대 150만큼 커질 수 있다는 것을 알 수 있다. 적당한 맵의 크기를 설정한 후 주어진 조건에 따라 세포의 증식을 구현할 때 생명력이 높은 세포부터 증식하는 과정을 우선순위 큐, 변화량을 저장하는 2차원 배열 등을 사용하여 다양하게 구현해볼 수 있었다.
 - Map 크기의 가능한 max를 계산하여 설정해주는 아이디어와 Cell의 상태를 표현하기 위해 특별한 구조체(class)를 활용하여 탐색하는 아이디어를 배웠다.
 - 삼성 공채 시험에서 출제되는 유형과 비슷한 문제로 문제에 주어진 조건 그대로를 구현하면 되는 문제였다. 세포가 증식할 때의 최대 크기를 정해준 다음 구현을 하는 것이 포인트였다.
+- 대부분의 배열 문제를 풀 때 주어진 N, M의 크기에 맞는 배열을 생성해 문제 풀이를 진행했었습니다. 해당 문제를 통해 주어진 N,M이 아닌 문제의 조건을 파악해 가능한 최대의 사이즈로 배열을 생성하고 각 줄에 입력값들이 배열의 어느 위치에 저장될 것인지 고려하는 것이 포인트였다고 생각합니다. 이후 조건에 맞는 Class를 구성해 PriorityQueue를 활용해 하나의 자리에 큰 값이 저장된다는 것을 구현할 수 있었습니다.
 
 [1248. [S/W 문제해결 응용] 3일차 - 공통조상](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=5&contestProbId=AV15PTkqAPYCFAYD&categoryId=AV15PTkqAPYCFAYD&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=5&pageSize=10&pageIndex=1)
 - 주어진 두 노드를 시작 정점으로 하여 첫 번째 노드에서 시작해 루트 노드 사이의 모든 노드를 flag 배열에 저장한 다음, 두 번째 노드에서 루트 노드로 진행하면서 flag인 정점을 찾았다면 그 노드가 공통 조상 노드임을 알 수 있고, 그 노드에서 BFS 탐색을 통해 서브 트리를 구할 수 있었다.
