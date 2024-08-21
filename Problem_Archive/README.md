@@ -43,9 +43,11 @@
 - 해당 문제는 출발지점이 도착지점보다 낮은 인덱스 값을 갖는다라는 조건이 존재하지 않아 임의로 두 개의 입력 값 중 작은 것을 출발지점으로 큰 것을 도착지점으로 간주해 배열에 저장했습니다. 학생들의 출발 지점을 기준으로 오름차순으로 정렬하되 출발 지점 값이 같게 되면 도착 지점을 기준으로 오름차순으로 정렬을 했습니다. 한 학생의 도착 지점보다 출발 지점이 먼 학생은 동시에 이동을 할 수 있으며 이 때 도착 지점은 두 학생 중 더 먼 도착 지점으로 업데이트를 해줍니다. 이를 통해 한 번에 이동할 수 있는 학생을 파악한 후 boolean 배열에 true로 설정해 해당 학생은 지나갔다는 것을 표시해준뒤 반복문을 수행하게 되면 문제를 풀 수 있었습니다.
 - 추가적으로 방 길이만큼 정수형 배열을 선언한 뒤 한 학생의 출발 지점과 도착 지점 사이의 인덱스들을 모두 +1씩 수행해줍니다. 학생의 수만큼 해당 작업을 반복해주고 설정해준 정수형 배열에서 최대값 = 그 지점을 무조건 지나는 학생 수이며 이는 동시에 발생할 수 없는 것이며 해당 배열에 적힌 횟수만큼의 시간이 흘려야된다는 것을 의미하며 정답으로 도출됩니다.
 
+
 [2819. 격자판의 숫자 이어 붙이기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AV7I5fgqEogDFAXB&categoryId=AV7I5fgqEogDFAXB&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1)
 - 전형적인 완전 탐색 문제였다. DFS를 이용하여 완전 탐색을 진행했으며 문제에서 주어진 칸을 재방문해도 상관 없다고 했으므로 이를 고려하여 재귀 함수를 구현하면 된다. 현재까지 지나온 칸의 번호를 String이 아닌 bit masking을 이용해서 풀어보자.
 - 수의 조합이 중복될 수 있으므로 set을 사용하면 된다.
+
 
 ### <hr>4주차
 [5653. [모의 SW 역량테스트] 줄기세포배양](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo&categoryId=AWXRJ8EKe48DFAUo&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) ⭐
@@ -64,3 +66,4 @@
 [9282. 초콜릿과 건포도](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AW9j-qfacIEDFAUY&categoryId=AW9j-qfacIEDFAUY&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=6) ⭐
 - 최솟값을 찾기위해 모든 경우를 따져보며 초콜릿을 자르는 것은 앞에서 앞서 잘랐던 모양이 또 만들어 질 수 있기 때문에 중복이 발생해 시간 초과가 발생한다. 따라서 모든 경우를 살펴보되, 그렇게 잘랐을 때의 값을 메모리제이션 기법을 이용해 저장해 두고 사용해야 한다. 또한, 잘랐을 때 합을 매번 구할 필요 없이 2차원 부분합을 사용하였다. 따라서 재귀를 이용한 완전 탐색 + 메모리제이션 + 부분합 등 3개의 알고리즘이 사용되는 응용이 필요한 문제였다.
 - 2차원 누적합의 값을 4차원 dp table에 저장하여 메모이제이션 하는 것이 중요한 아이디어였다. 처음에 2차원 누적합을 보고 2차원 dp로 처리하려고 하면 방문처리나 메모이제이션 된 값을 다시 찾으려고 할 때 과정이 꼬일 수 있다. 이를 쉽게 해주는 아이디어가 4차원 dp였다.
+
