@@ -57,3 +57,4 @@ replay_pid*
 *.app
 
 /.idea
+*.DS_Store
