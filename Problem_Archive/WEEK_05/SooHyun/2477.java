@@ -27,18 +27,18 @@ public class Solution {
             for (int i = 0; i < M; i++) {
                 bi[i] = Integer.parseInt(st.nextToken());
             }
-            int[][] arr = new int[K][4];
+            int[][] customer = new int[K][4];
             st = new StringTokenizer(br.readLine().trim());
             for (int i = 0; i < K; i++) {
-                arr[i][0] = Integer.parseInt(st.nextToken());
-                arr[i][1] = i + 1;
+                customer[i][0] = Integer.parseInt(st.nextToken());
+                customer[i][1] = i + 1;
             }
 
             int[] wait1 = new int[N];
             for (int i = 0; i < K; i++) {
                 int idx = 0;
                 for (int j = 0; j < N; j++) {
-                    if (wait1[j] <= arr[i][0]) {
+                    if (wait1[j] <= customer[i][0]) {
                         idx = j;
                         break;
                     }
@@ -46,16 +46,16 @@ public class Solution {
                         idx = j;
                     }
                 }
-                arr[i][2] = idx;
-                if (wait1[idx] < arr[i][0]) {
-                    wait1[idx] = arr[i][0] + ai[idx];
+                customer[i][2] = idx;
+                if (wait1[idx] < customer[i][0]) {
+                    wait1[idx] = customer[i][0] + ai[idx];
                 } else {
                     wait1[idx] += ai[idx];
                 }
-                arr[i][0] = wait1[idx];
+                customer[i][0] = wait1[idx];
             }
 
-            Arrays.sort(arr, (o1, o2) -> {
+            Arrays.sort(customer, (o1, o2) -> {
                 if (o1[0] == o2[0]) {
                     return o1[2] - o2[2];
                 }
@@ -67,7 +67,7 @@ public class Solution {
             for (int i = 0; i < K; i++) {
                 int idx = 0;
                 for (int j = 0; j < M; j++) {
-                    if (wait2[j] <= arr[i][0]) {
+                    if (wait2[j] <= customer[i][0]) {
                         idx = j;
                         break;
                     }
@@ -75,16 +75,16 @@ public class Solution {
                         idx = j;
                     }
                 }
-                arr[i][3] = idx;
-                if (wait2[idx] < arr[i][0]) {
-                    wait2[idx] = arr[i][0] + bi[idx];
+                customer[i][3] = idx;
+                if (wait2[idx] < customer[i][0]) {
+                    wait2[idx] = customer[i][0] + bi[idx];
                 } else {
                     wait2[idx] += bi[idx];
                 }
-                arr[i][0] = wait2[idx];
+                customer[i][0] = wait2[idx];
 
-                if (arr[i][2] == A && arr[i][3] == B) {
-                    result += arr[i][1];
+                if (customer[i][2] == A && customer[i][3] == B) {
+                    result += customer[i][1];
                 }
             }
             if(result==0) {
