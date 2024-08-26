@@ -76,12 +76,15 @@
 ### <hr>5주차
 [1238. [S/W 문제해결 기본] 10일차 - Contact](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AV15B1cKAKwCFAYD&categoryId=AV15B1cKAKwCFAYD&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1)
 - 최단거리를 보장하는 BFS 알고리즘을 사용하여 시작 정점에서 각 정점까지의 거리를 구하고, 1번 정점부터 100번 정점까지 순회하며 최댓값을 갖는 번호를 저장하면 되는 BFS 연습 문제였다.
+- BFS 탐색 시 넘버링하는 순간이 중요했다. 큐에 넣을 때와 큐에서 빼낼 때의 차이를 잘 구분하고 넘버링을 해야하는 문제였다.
 
 [2477. [모의 SW 역량테스트] 차량 정비소](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy&categoryId=AV6c6bgaIuoDFAXy&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=2)
 - 주어진 조건이 많아서 복잡하지만, 차근 차근 읽어보며 주어진 조건을 구현하면 되는 구현 문제였다. 접수 창구의 경우 여러 고객이 기다릴 때 고객 번호가 낮은 순서대로 처리하는데 도착 순서가 고객 번호에 비례하기 때문에 일반 큐를 사용하여 처리해주면 되고, 정비 창구는 도착 순서, 작은 창구 번호 이용 고객 순으로 우선순위 큐를 사용하여 처리해주면 된다. 주의할 점은 처리가 끝나는 시간에 입장이 되므로 항상 창구를 비우고 새로운 고객을 추가하는 순으로 처리해야 한다는 점이다.
+- 고객과 정비소 창구의 상태를 잘 표현하기 위해서 구조체 (클래스) 선언이 필요했던 문제였다. 필요한 필드들을 적절하게 선언한 후에 구현을 통해 잘 처리해주고, Q와 PQ를 사용해 대기열을 잘 관리하면 되는 문제이다.
 
 [5656. [모의 SW 역량테스트] 벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&categoryId=AWXRQm6qfL0DFAUo&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) ⭐
 - 구슬을 어느 열에 N번 떨어뜨려야 가장 많이 제거할 수 있을까? 그리디한 발상이 떠오르지 않는가? 최악의 경우 12 X 15 판에 4번이다. 완전 탐색으로 가자. 매번 판의 상태를 백업하고 BFS로 벽돌을 제거하고, 남은 벽돌을 아래로 내려야 하는 빡구현 + BFS 문제였다. 디버깅에 늪에 빠졌다면 시간이 굉장히 오래 걸릴 것.
 
 [2105. [모의 SW 역량테스트] 디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu&categoryId=AV5VwAr6APYDFAWu&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=PASS_RATE&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) ⭐
 - N x N 크기의 판에서 대각선 방향으로 이동하며 사각형의 경로로 가장 많은 디저트를 먹을 수 있는 경우를 구하는 문제였다. 이 문제도 최악의 경우 20 x 20이므로 완탐으로 무작정 덤벼보자. 사각형을 만들기 위해서는 방향을 3번 바꿔야 한다는 아이디어만 떠올릴 수 있다면, 나머지는 당신의 구현력을 믿어라.
+- 사각형을 이루는 대각선의 경로로 이동할 때, 한 방향(시계 방향 or 반시계 방향)으로 이동하고, turn 하는 경우를 잘 세어주는게 포인트였다.
