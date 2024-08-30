@@ -4,9 +4,11 @@
 - [문제 보관소](https://github.com/jinlaove17/2024_SSAFY_AlgorithmStudy/tree/main/Problem_Archive)
 
 ### 이번주 문제 목록
-- [4530. 극한의 청소 작업](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AWO6cgzKOIEDFAWw&categoryId=AWO6cgzKOIEDFAWw&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=4)
-- [10726. 이진수 표현](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXRSXf_a9qsDFAXS)
-- [7699. 수지의 수지 맞는 여행](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AWqUzj0arpkDFARG&categoryId=AWqUzj0arpkDFARG&categoryType=CODE&problemTitle=&orderBy=PASS_RATE&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=4)
-- [1865. 동철이의 일 분배](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LuHfqDz8DFAXc)
+- [3000. 중간값 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV-fO0s6ARoDFAXT&)
+- [4740. 밍이의 블록게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWSNgjbKzmQDFAUr)
+- [1798. 범준이의 제주도 여행 계획](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4x9oyaCR8DFAUx)
+- [15942. 외계인 침공](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYVgWGZKOroDFAQK)
 
-> 분명 시간은 누구에게나 공평하게 흐른다. 하지만 그와 나의 시간은 그 농도가 너무나도 달랐다. - 드라마 <이태원 클라쓰> 中 -
+> 돈이 없어서 졌다, 과외를 못해서 대학을 못 갔다, 몸이 아파서 졌다.<br>
+모두가 같은 환경일 수가 없고 각자가 가진 무기 가지고 싸우는 건데...<br>
+핑계대기 시작하면 똑같은 상황에서 또 집니다. - 드라마 <스토브리그> 中 -
