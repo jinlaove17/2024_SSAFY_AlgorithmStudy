@@ -2,7 +2,8 @@
 #### ${\textsf{\color{red}※ 문제 선정시 찾기(Ctrl + F)를 통해 이전에 풀었던 문제가 아닌지 확인해주세요!}}$
 > 스터디 시간에 하지 못했던 말, 덧붙이면 좋은 말, 문제에 대한 코멘트 등을 자유롭게 남겨주세요.
 
-> ⭐(알슐랭 스타): 모든 문제가 유익하지만 그 중에서도 다시금 풀어보면 좋을 것 같은 문제로, 과반수의 동의를 얻어야 획득이 가능해요.
+> ⭐(알슐랭 스타): 모든 문제가 유익하지만 그 중에서도 다시금 풀어보면 좋을 것 같은 문제로, 과반수의 동의를 얻어야 획득이 가능해요.<br>
+> ❤️(좋아요): 알슐랭 스타에는 들지 못했지만 개인적으로 괜찮았던 문제로, 언제든 누구나 선정할 수 있어요.
 
 - 종우: ⭐⭐
 - 진주: ⭐
@@ -88,3 +89,18 @@
 [2105. [모의 SW 역량테스트] 디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu&categoryId=AV5VwAr6APYDFAWu&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=PASS_RATE&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) ⭐
 - N x N 크기의 판에서 대각선 방향으로 이동하며 사각형의 경로로 가장 많은 디저트를 먹을 수 있는 경우를 구하는 문제였다. 이 문제도 최악의 경우 20 x 20이므로 완탐으로 무작정 덤벼보자. 사각형을 만들기 위해서는 방향을 3번 바꿔야 한다는 아이디어만 떠올릴 수 있다면, 나머지는 당신의 구현력을 믿어라.
 - 사각형을 이루는 대각선의 경로로 이동할 때, 한 방향(시계 방향 or 반시계 방향)으로 이동하고, turn 하는 경우를 잘 세어주는게 포인트였다.
+
+### <hr>6주차
+> 분명 시간은 누구에게나 공평하게 흐른다. 하지만 그와 나의 시간은 그 농도가 너무나도 달랐다. - 드라마 <이태원 클라쓰> 中 -<br>
+
+[4530. 극한의 청소 작업](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AWO6cgzKOIEDFAWw&categoryId=AWO6cgzKOIEDFAWw&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=4) ❤️
+- 음... 일단 나에게는 어려웠다. 수의 범위가 최소 -999,999,999,999부터 최대 999,999,999,999까지로 굉장히 크지만, 이를 통해 아! 자리수를 통해서 무언가 계산을 해야겠구나 아이디어를 떠올릴 수 있다. 해당 범위 내에서 4가 들어간 수의 개수를 어떻게 계산할 수 있을까? 일단 공책을 펴고 4, 14, 24, 34, 40 ~ 49, ... 4가 들어간 숫자들을 적어보고 규칙성을 한 번 찾아보자. 규칙성을 발견해 수의 개수를 계산할 수 있다면 a, b의 부호에 따라 분기하여 적절히 처리해주자. 사실 이 풀이보다는 9진법을 사용해 해결하는 아이디어가 더 중요했던 것 같다.
+ 
+[10726. 이진수 표현](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXRSXf_a9qsDFAXS)
+- 마지막 N개의 비트가 1인지 확인하기 위해 반복문으로 뒤에서부터 1로 채워진 비트를 만들어 & 연산을 하는 생각이 들었는가? 당신은 이것을 보면 뒷목을 잡게 될 것이다. `(1 << N) - 1`
+
+[7699. 수지의 수지 맞는 여행](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AWqUzj0arpkDFARG&categoryId=AWqUzj0arpkDFARG&categoryType=CODE&problemTitle=&orderBy=PASS_RATE&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=4)
+- DFS를 연습하기에 좋았던 기본 문제였다. 그런데 제출했는데 1,000ms 이상의 실행시간이 나왔다면, A부터 Z까지 알파벳의 개수가 몇 개인지 세보고 이를 이용해 가지치기를 해보자. 실행 시간이 1/10배가 될 것이다.
+
+[1865. 동철이의 일 분배](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LuHfqDz8DFAXc) ❤️
+- 최악의 경우 N은 16이고, 순열로 푼다면 `O(16!)`의 시간 복잡도를 갖기 때문에 도저히 불가능해 보인다. 과연 그럴까? 당신의 가지치기 실력을 믿고 순열로 도전해보자. 그렇게 문제를 풀었다면, 이제 전혀 생각치도 못했던 `DP`를 활용해 다시 풀어보자. 개인적으로 `DP`를 사용해 꼭 다시 풀어봐야 할 문제라고 생각한다.
