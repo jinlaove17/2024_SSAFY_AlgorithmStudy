@@ -98,9 +98,11 @@
  
 [10726. 이진수 표현](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXRSXf_a9qsDFAXS)
 - 마지막 N개의 비트가 1인지 확인하기 위해 반복문으로 뒤에서부터 1로 채워진 비트를 만들어 & 연산을 하는 생각이 들었는가? 당신은 이것을 보면 뒷목을 잡게 될 것이다. `(1 << N) - 1`
+- 사실은 and 연산 한 번으로 끝나는 깔끔한 기본 문제이다.
 
 [7699. 수지의 수지 맞는 여행](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AWqUzj0arpkDFARG&categoryId=AWqUzj0arpkDFARG&categoryType=CODE&problemTitle=&orderBy=PASS_RATE&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=4)
 - DFS를 연습하기에 좋았던 기본 문제였다. 그런데 제출했는데 1,000ms 이상의 실행시간이 나왔다면, A부터 Z까지 알파벳의 개수가 몇 개인지 세보고 이를 이용해 가지치기를 해보자. 실행 시간이 1/10배가 될 것이다.
 
 [1865. 동철이의 일 분배](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LuHfqDz8DFAXc) ❤️
 - 최악의 경우 N은 16이고, 순열로 푼다면 `O(16!)`의 시간 복잡도를 갖기 때문에 도저히 불가능해 보인다. 과연 그럴까? 당신의 가지치기 실력을 믿고 순열로 도전해보자. 그렇게 문제를 풀었다면, 이제 전혀 생각치도 못했던 `DP`를 활용해 다시 풀어보자. 개인적으로 `DP`를 사용해 꼭 다시 풀어봐야 할 문제라고 생각한다.
+- MCMF 를 사용할 수 있는 대표적인 문제이다. (추후에 심화 알고리즘 세션을 따로 가져서 공부해보면 좋을 것 같다.)
