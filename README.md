@@ -1,14 +1,26 @@
 # :pencil2: SSAFY 12기 16반 알고리즘 스터디
-- **사용 언어:** JAVA, C++
-- **문제 선정:** SWEA ${\textsf{\color{green}D4}}$  ~  ${\textsf{\color{blue}D5}}$
-- [문제 보관소](https://github.com/jinlaove17/2024_SSAFY_AlgorithmStudy/tree/main/Problem_Archive)
+### ✨ 사용 언어
+- ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+<br><br>
 
-### 이번주 문제 목록
-- [3000. 중간값 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV-fO0s6ARoDFAXT&)
-- [4740. 밍이의 블록게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWSNgjbKzmQDFAUr)
-- [1798. 범준이의 제주도 여행 계획](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4x9oyaCR8DFAUx)
-- [15942. 외계인 침공](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYVgWGZKOroDFAQK)
+### ✨ 문제 선정
+- SWEA, BOJ, Programmers, CodeTree 등 다양한 온라인 저지 사이트
+<br><br>
 
-> 돈이 없어서 졌다, 과외를 못해서 대학을 못 갔다, 몸이 아파서 졌다.<br>
-모두가 같은 환경일 수가 없고 각자가 가진 무기 가지고 싸우는 건데...<br>
-핑계대기 시작하면 똑같은 상황에서 또 집니다. - 드라마 <스토브리그> 中 -
+### ✨ 문제 보관소
+- [바로 가기](https://github.com/jinlaove17/2024_SSAFY_AlgorithmStudy/tree/main/Problem_Archive)
+<br><br>
+
+### ✨ 이번주 문제 목록
+- [[SWEA] 6855. 신도시 전기 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWhUBBUqQO0DFAW_)
+- [[SWEA] 3135. 홍준이의 사전놀이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_6pTXqsXUDFAWS)
+- [[CodeTree] 포탑 부수기](https://www.codetree.ai/training-field/frequent-problems/problems/destroy-the-turret/description?page=1&pageSize=20&name=%ED%8F%AC%ED%83%91)
+- [[BOJ] 2931. 가스관](https://www.acmicpc.net/problem/2931)
+<br><br>
+
+> 네가 대수롭지 않게 받아들이면 남들도 대수롭지 않게 생각해.<br>
+네가 심각하게 받아들이면 남들도 심각하게 생각하고.<br>
+모든 일이 그래. 항상 네가 먼저야.<br>
+옛날 일 아무것도 아니야. 네가 아무 것도 아니라고 생각하면 아무 것도 아니야. - 드라마 <나의 아저씨> 中 -
