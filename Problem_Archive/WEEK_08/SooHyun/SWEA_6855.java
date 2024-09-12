@@ -22,6 +22,8 @@ public class Solution {
             N = Integer.parseInt(st.nextToken());
             K = Integer.parseInt(st.nextToken());
             house = new int[N];
+
+            // N 개의 집은 사이 거리가 총 N-1개 존재한다.
             distance = new int[N-1];
             st = new StringTokenizer(br.readLine().trim());
             for(int i=0; i<N; i++) {
@@ -32,6 +34,10 @@ public class Solution {
             }
             int result=0;
             Arrays.sort(distance);
+
+            // 이 문제의 핵심이다. 주어진 K는 발전소의 갯수이며 이는 어떻게 보면 K개의 군집이 존재해야한다는 것과 같은 이야기이다.
+            // 그렇게 될 시에 N-1개의 거리 중에서 K-1개의 거리는 선택되지 않는다는 것이 문제의 핵심이다.
+            // 따라서 선택되는 (N-1)-(K-1)개의 거리 중 작은 순서대로 택하게 되면 문제를 해결할 수 있다.
             for(int i=0; i<N-K; i++) {
                 result+=distance[i];
             }
