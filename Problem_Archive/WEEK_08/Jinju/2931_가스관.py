@@ -8,6 +8,8 @@
 #     m에서 출발해서 끊긴 곳의 좌표, z에서 출발해서 끊긴 곳의 좌표
 #     각각의 파이프를 유일하게 연결할 수 있는 경우를 찾아낸다
 
+# 시간복잡도 : O(격자 크기 = R*C)
+
 import sys
 input = sys.stdin.readline
 from collections import deque
