@@ -1,3 +1,13 @@
+# 전략
+# 1. m에서 z까지 향하는 가스의 흐름은 유일하다
+# 2. m에서 출발, z에서 출발 하여 가스의 흐름이 막히는 곳을 찾아낸다
+# 3. m에서 bfs, z에서 bfs로 탐색하다 보면 가야하는 흐름이 끊기는 곳이 발견
+# 4. blank를 발견하면 좌표를 저장
+
+#  -> blank 발견 이후에는
+#     m에서 출발해서 끊긴 곳의 좌표, z에서 출발해서 끊긴 곳의 좌표
+#     각각의 파이프를 유일하게 연결할 수 있는 경우를 찾아낸다
+
 import sys
 input = sys.stdin.readline
 from collections import deque
