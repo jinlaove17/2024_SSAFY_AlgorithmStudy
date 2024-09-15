@@ -5,10 +5,10 @@
 > ⭐(알슐랭 스타): 모든 문제가 유익하지만 그 중에서도 다시금 풀어보면 좋을 것 같은 문제로, 과반수의 동의를 얻어야 획득이 가능해요.<br>
 > ❤️(좋아요): 알슐랭 스타에는 들지 못했지만 개인적으로 괜찮았던 문제로, 언제든 누구나 선정할 수 있어요.
 
-- 종우: ⭐⭐
-- 진주: ⭐
-- 수현: ⭐⭐⭐⭐🌟
-- 민채: ⭐
+- 종우: ⭐⭐🌟
+- 진주: ⭐🌟
+- 수현: ⭐⭐⭐⭐⭐
+- 민채: ⭐🌟
 
 ### <hr>1주차
 [1210. [S/W 문제해결 기본] 2일차 - Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE&problemTitle=%5BS%2FW+%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0+%EA%B8%B0%EB%B3%B8%5D+2%EC%9D%BC%EC%B0%A8+-+Ladder1&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
@@ -123,3 +123,21 @@
 
 [15942. 외계인 침공](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYVgWGZKOroDFAQK)
 - 문제를 선정했던 날짜를 기준으로 정답률이 10.97%였던 괴랄한 문제였다. 문제 설명은 굉장히 짧지만 그리디한 발상을 떠올리고 반례를 증명하는 과정이 굉장히 어려웠던 것 같다. TreeMap에 최대 힙을 사용하는 풀이의 경우 29개의 케이스 중 28개가 맞게 되는데 이에 대한 반례는 아직까지도 찾지 못했다. 어찌됐든 구글에 이 문제를 검색하면 단 1개의 해설만 있다. 이 블로그를 참고해서 기존 코드에 조건식을 추가하여 어찌저찌 문제는 해결했지만 반례를 좀 알고 싶다...
+
+### <hr>8주차
+> 네가 대수롭지 않게 받아들이면 남들도 대수롭지 않게 생각해.<br>
+네가 심각하게 받아들이면 남들도 심각하게 생각하고.<br>
+모든 일이 그래. 항상 네가 먼저야.<br>
+옛날 일 아무것도 아니야. 네가 아무 것도 아니라고 생각하면 아무 것도 아니야. - 드라마 <나의 아저씨> 中 -<br>
+
+[[SWEA] 6855. 신도시 전기 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWhUBBUqQO0DFAW_) ❤️
+- 개인적으로 `n개의 집을 k개의 그룹으로 나누려면, n - 1개의 연결선 중 k - 1개를 제거해야 한다.`는 발상이 어려웠던 문제이다. 처음에 문제와 테스트 케이스를 이해하는데도 시간이 좀 걸렸고, 이분 탐색으로 해결해야겠다는 삽질까지 했었던 문제였다.
+  
+[[SWEA] 3135. 홍준이의 사전놀이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_6pTXqsXUDFAWS) ⭐
+- `트라이(Trie)` 알고리즘에 대해 공부해볼 수 있었던 문제였다. 정적 배열, 연결 리스트 기반의 트라이를 만들어 해결해보자. 단, 해당 단어로 시작하는 문자의 개수를 구하기 위해서는 아주 조금의 변형이 필요하다.
+
+[[CodeTree] 포탑 부수기](https://www.codetree.ai/training-field/frequent-problems/problems/destroy-the-turret/description?page=1&pageSize=20&name=%ED%8F%AC%ED%83%91) ⭐
+- 문제가 굉장히 길고 복잡해 보이지만, 그만큼 주어지는 정보 또한 많기 때문에 구현은 굉장히 직관적으로 할 수 있는 문제였다. 레이저 공격에 성공할 경우, 경로를 어떻게 저장할지 스터디원들의 다양한 풀이를 볼 수 있었던 구현력을 기르기 좋은 문제!
+
+[[BOJ] 2931. 가스관](https://www.acmicpc.net/problem/2931) ⭐
+- 전에는 시간 제한이 있어서 해결하지 못했지만, 시간 제한이 없는 환경에서 복수할 기회가 찾아왔다. 그래프 탐색으로 없어진 타일의 위치를 찾은 다음, '+' 타일이 조금 골치 아프겠지만, 7개의 타일을 대입해보며 경로가 이어지는지 찾아보자.
