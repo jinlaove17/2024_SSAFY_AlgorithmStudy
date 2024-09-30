@@ -23,17 +23,14 @@ ${\textsf{\color{red}※ 문제를 풀고 아래 양식에 맞춰 코드 상단�
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[SWEA] 5650. [모의 SW 역량테스트] 핀볼 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo)
-- [[BOJ] 6087. 레이저 통신](https://www.acmicpc.net/problem/6087)
-- [[SWEA] 1868. 파핑파핑 지뢰찾기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LwsHaD1MDFAXc)
-- [[BOJ] 21609. 상어 중학교](https://www.acmicpc.net/problem/21609)
+- [[SWEA] 4014. [모의 SW 역량테스트] 활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)
+- [[BOJ] 14725. 개미굴](https://www.acmicpc.net/problem/14725)
+- [[SWEA] 4301. 콩 많이 심기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLv-yZah48DFAVV)
+- [[CodeTree] 예술성](https://www.codetree.ai/training-field/frequent-problems/problems/artistry/description?page=4&pageSize=5)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> 당신 실패하지 않았어.<br>
-합격하고 입사하고 나서 보니까 성공이 아니라 그냥 문을 하나 연 것 같은 느낌이더라고.<br>
-어쩌면 우리는 성공과 실패가 아니라 죽을 때까지 다가오는 문만 열어가면서 살아가는게 아닐까 싶어.
-<br><br>
-그럼 성공은요?
-<br><br>
-자기가 그 순간에 어떤 의미를 부여하느냐에 달린 문제가 아닐까? - 미생 中 -
+> 죽고 싶은 와중에 죽지 마라,<br>
+당신은 괜찮은 사람이다. 파이팅해라!<br>
+그렇게 응원해주는 사람이 있다는 것만으로..<br>
+숨이 쉬어져.. - 나의 아저씨 中 -
