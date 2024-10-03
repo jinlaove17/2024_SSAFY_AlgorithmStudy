@@ -78,11 +78,11 @@ for _ in range(4):
     group = [[0] * N for _ in range(N)] # 그룹을 분리하기 위해 만든 2차원 배열
     group_cnt = [0] * (N * N + 1) # 그룹별로 개수를 세기위한 배열
     group_num = 0 # 그룹 번호
-    visited = [ [False] * N for _ in range(N) ]
+    vst = [ [False] * N for _ in range(N) ]
 
     for i in range(N):
         for j in range(N):
-            if not visited[i][j]:
+            if not vst[i][j]:
                 group_num += 1
                 group[i][j] = group_num
                 group_cnt[group_num] += 1
