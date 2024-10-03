@@ -8,7 +8,7 @@
 	2. 해당 입력을 모두 Trie에 삽입하는 시간이 O(N*K)
 	3. Trie에 삽입한 노드들을 완전 탐색으로 출력 O(N*K)
 
-  실행 시간 : C++, 0ms
+  	실행 시간 : C++, 0ms
 */
 
 #include <bits/stdc++.h>
