@@ -63,7 +63,7 @@
 - 삼성 공채 시험에서 출제되는 유형과 비슷한 문제로 문제에 주어진 조건 그대로를 구현하면 되는 문제였다. 세포가 증식할 때의 최대 크기를 정해준 다음 구현을 하는 것이 포인트였다.
 - 대부분의 배열 문제를 풀 때 주어진 N, M의 크기에 맞는 배열을 생성해 문제 풀이를 진행했었습니다. 해당 문제를 통해 주어진 N,M이 아닌 문제의 조건을 파악해 가능한 최대의 사이즈로 배열을 생성하고 각 줄에 입력값들이 배열의 어느 위치에 저장될 것인지 고려하는 것이 포인트였다고 생각합니다. 이후 조건에 맞는 Class를 구성해 PriorityQueue를 활용해 하나의 자리에 큰 값이 저장된다는 것을 구현할 수 있었습니다.
 
-[1248. [S/W 문제해결 응용] 3일차 - 공통조상](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=5&contestProbId=AV15PTkqAPYCFAYD&categoryId=AV15PTkqAPYCFAYD&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=5&pageSize=10&pageIndex=1)
+[1248. [S/W 문제해결 응용] 3일차 - 공통조상](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=5&contestProbId=AV15PTkqAPYCFAYD&categoryId=AV15PTkqAPYCFAYD&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=5&pageSize=10&pageIndex=1) 💗
 - 주어진 두 노드를 시작 정점으로 하여 첫 번째 노드에서 시작해 루트 노드 사이의 모든 노드를 flag 배열에 저장한 다음, 두 번째 노드에서 루트 노드로 진행하면서 flag인 정점을 찾았다면 그 노드가 공통 조상 노드임을 알 수 있고, 그 노드에서 BFS 탐색을 통해 서브 트리를 구할 수 있었다.
 - LCA를 구하는 과정 중 잘 알려진 웰노운 방식을 알아두는 것이 중요하다.
    - 서로 깊이가 다른 노드의 깊이를 똑같이 맞춰준다
@@ -96,7 +96,7 @@
 [4530. 극한의 청소 작업](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AWO6cgzKOIEDFAWw&categoryId=AWO6cgzKOIEDFAWw&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=4) ❤️
 - 음... 일단 나에게는 어려웠다. 수의 범위가 최소 -999,999,999,999부터 최대 999,999,999,999까지로 굉장히 크지만, 이를 통해 아! 자리수를 통해서 무언가 계산을 해야겠구나 아이디어를 떠올릴 수 있다. 해당 범위 내에서 4가 들어간 수의 개수를 어떻게 계산할 수 있을까? 일단 공책을 펴고 4, 14, 24, 34, 40 ~ 49, ... 4가 들어간 숫자들을 적어보고 규칙성을 한 번 찾아보자. 규칙성을 발견해 수의 개수를 계산할 수 있다면 a, b의 부호에 따라 분기하여 적절히 처리해주자. 사실 이 풀이보다는 9진법을 사용해 해결하는 아이디어가 더 중요했던 것 같다.
  
-[10726. 이진수 표현](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXRSXf_a9qsDFAXS)
+[10726. 이진수 표현](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXRSXf_a9qsDFAXS) 💗
 - 마지막 N개의 비트가 1인지 확인하기 위해 반복문으로 뒤에서부터 1로 채워진 비트를 만들어 & 연산을 하는 생각이 들었는가? 당신은 이것을 보면 뒷목을 잡게 될 것이다. `(1 << N) - 1`
 - 사실은 and 연산 한 번으로 끝나는 깔끔한 기본 문제이다.
 
@@ -147,11 +147,13 @@
 이들 앞에서 나는 감히 최선을 다해 살았다고 말할 수 있을까...<br>
 내 죽음이 참을 수 없이 부끄러웠다. - 드라마 <이재, 곧 죽습니다> 中 -<br>
 
-[[BOJ] 20187. 종이접기](https://www.acmicpc.net/problem/20187)
+[[BOJ] 20187. 종이접기](https://www.acmicpc.net/problem/20187) 💗
 - 종이를 접어가면서 시뮬레이션을 하는 것이 아니라, 모두 접힌 1 x 1 크기의 사각형에서 역으로 펼치는 발상으로 문제를 해결할 수 있었다. 종이를 상, 하, 좌, 우로 펼칠 때마다 처음에 구멍이 뚫린 위치에 따라 규칙성이 발생하므로 인덱스의 범위를 벗어나지 않도록 적절히 배열의 한 가운데에서 시작해 종이를 펼쳐나가면 된다.
+- Python의 장점인 동적 배열을 이용하면 배열을 상, 하, 좌, 우로 붙이면서 직관적으로 종이를 펴는 과정을 구현할 수 있다.
   
-[SWEA] [PRO] 성적 조회
+[SWEA] [PRO] 성적 조회 💗
 - B형 대비 문제로 자료구조를 적절히 사용하면 그렇게 어렵지 않게 해결할 수 있었던 문제였다. `이진 탐색 트리`인 set(TreeSet)과 map(TreeMap)의 사용법과 동작방식을 적절히 익혀두면 앞으로 큰 도움이 될 것이라 생각한다. 또한 템플릿(제네릭) 매개변수에 또 다른 자료구조를 사용하면 구현이 어려운 기능을 손쉽게 구현할 수 있다는 사실을 염두해두자!
+- C++으로 풀 때, 컨테이너와 이터레이터를 다루는 것을 연습할 수 있는 문제이다. 해당 구현이 쉬워질 때 까지 연습하기를 추천한다.
 
 ### <hr>10주차
 > 당신 실패하지 않았어.<br>
@@ -172,4 +174,5 @@
 - 이 문제도 전형적인 BFS 탐색을 통해 해결이 가능하다. 다만, 인접칸의 인접 지뢰 개수가 0인 경우에만 큐에 추가하고 방문체크를 하며 탐색을 진행해야 한다는 점이 핵심이다.
 
 [[BOJ] 21609. 상어 중학교](https://www.acmicpc.net/problem/21609) ⭐
-- BFS 탐색을 통해 우선순위에 따른 블록 그룹 찾기, 배열 회전, 장애물이 있을 때의 블록 내리기 등 시뮬레이션을 연습하기에 굉장히 좋은 문제였다. 
+- BFS 탐색을 통해 우선순위에 따른 블록 그룹 찾기, 배열 회전, 장애물이 있을 때의 블록 내리기 등 시뮬레이션을 연습하기에 굉장히 좋은 문제였다.
+- 다양한 구현을 경험할 수 있어서 다채롭고 구현 연습을 하기에 적절한 문제이다.
