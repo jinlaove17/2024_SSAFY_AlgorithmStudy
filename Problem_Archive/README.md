@@ -5,10 +5,10 @@
 > ⭐(알슐랭 스타): 모든 문제가 유익하지만 그 중에서도 다시금 풀어보면 좋을 것 같은 문제로, 과반수의 동의를 얻어야 획득이 가능해요.<br>
 > ❤️(좋아요): 알슐랭 스타에는 들지 못했지만 개인적으로 괜찮았던 문제로, 언제든 누구나 선정할 수 있어요.
 
-- 종우: ⭐⭐⭐🌟
-- 진주: ⭐⭐
+- 종우: ⭐⭐⭐⭐
+- 진주: ⭐⭐🌟
 - 수현: ⭐⭐⭐⭐⭐
-- 민채: ⭐⭐🌟
+- 민채: ⭐⭐⭐🌟
 
 ### <hr>1주차
 [1210. [S/W 문제해결 기본] 2일차 - Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE&problemTitle=%5BS%2FW+%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0+%EA%B8%B0%EB%B3%B8%5D+2%EC%9D%BC%EC%B0%A8+-+Ladder1&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
@@ -176,3 +176,21 @@
 [[BOJ] 21609. 상어 중학교](https://www.acmicpc.net/problem/21609) ⭐
 - BFS 탐색을 통해 우선순위에 따른 블록 그룹 찾기, 배열 회전, 장애물이 있을 때의 블록 내리기 등 시뮬레이션을 연습하기에 굉장히 좋은 문제였다.
 - 다양한 구현을 경험할 수 있어서 다채롭고 구현 연습을 하기에 적절한 문제이다.
+
+### <hr>11주차
+> 죽고 싶은 와중에 죽지 마라,<br>
+당신은 괜찮은 사람이다. 파이팅해라!<br>
+그렇게 응원해주는 사람이 있다는 것만으로..<br>
+숨이 쉬어져.. - 드라마 <나의 아저씨> 中 -
+
+[[SWEA] 4014. [모의 SW 역량테스트] 활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH) ❤️
+- 행과 열 단위로 검사하며 시뮬레이션 하는 문제였다. 높이가 높아졌을 때, 낮아졌을 때 각각 어떻게 처리할 것인지 스터디원들의 다양한 풀이를 살펴볼 수 있었다. 이 문제에서 주의할 점은 x가 1일 때, 높이가 2 1 1 2 혹은 2 1 2와 같이 주어졌을 때 겹치지 않게 설치하면서 불가능한 경우를 찾아내야 한다는 점이다.
+
+[[BOJ] 14725. 개미굴](https://www.acmicpc.net/problem/14725) ⭐
+- 단순히 26개의 알파벳 문자를 O(1)에 접근하는 기본적인 트라이를 학습했다면, 이 문제처럼 자식을 순서를 유지하며 문자열로 갖는 트라이의 응용 문제를 풀어보자. 코드는 짧게 해결되더라도 `이진 탐색 트리`를 이용해 자식을 관리해야겠다는 발상과 어떤 자료구조를 사용할지 각 자료구조의 특성을 고민해볼 수 있었던 문제이다.
+
+[[SWEA] 4301. 콩 많이 심기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLv-yZah48DFAVV)
+- 두 점 사이의 거리 공식이 주어지며 수학적으로 해결해야 할 것 같지만, 거리가 2가 되는 경우는 유일하다는 점에서 어렵지 않게 해결 할 수 있었던 문제이다. 하지만 조금만 응용해서 거리가 3:4:5와 같은 삼각비의 형태를 이루는 경우라면 대각선을 고려해야하기 때문에 까다로워질 수도 있는 문제였다.
+
+[[CodeTree] 예술성](https://www.codetree.ai/training-field/frequent-problems/problems/artistry/description?page=4&pageSize=5) ⭐
+- 각 그룹을 선별하고 그룹 간에 맞닿은 변의 개수 계산, 십자 회전, 4개의 정사각형 부분 회전 등 단순히 `구현`하면 되는 문제이다. 문제가 지저분하지 않기 때문에 좀 만 고민하면 직관적으로 풀 수 있는 좋은 연습문제였다.
