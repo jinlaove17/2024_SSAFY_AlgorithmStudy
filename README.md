@@ -23,14 +23,13 @@ ${\textsf{\color{red}※ 문제를 풀고 아래 양식에 맞춰 코드 상단�
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[SWEA] 4014. [모의 SW 역량테스트] 활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)
-- [[BOJ] 14725. 개미굴](https://www.acmicpc.net/problem/14725)
-- [[SWEA] 4301. 콩 많이 심기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLv-yZah48DFAVV)
-- [[CodeTree] 예술성](https://www.codetree.ai/training-field/frequent-problems/problems/artistry/description?page=4&pageSize=5)
+- [[BOJ] 4485. 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)
+- [[BOJ] 2211. 네트워크 복구](https://www.acmicpc.net/problem/2211)
+- [[BOJ] 2629. 양팔저울](https://www.acmicpc.net/problem/2629)
+- [[BOJ] 1106. 호텔](https://www.acmicpc.net/problem/1106)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> 죽고 싶은 와중에 죽지 마라,<br>
-당신은 괜찮은 사람이다. 파이팅해라!<br>
-그렇게 응원해주는 사람이 있다는 것만으로..<br>
-숨이 쉬어져.. - 나의 아저씨 中 -
+> 누가 그럽디다.<br>
+포기하는 순간 핑곗거리를 찾게 되고<br>
+할 수 있다는 생각하는 순간에 방법을 찾는다고. - 드라마 <낭만닥터 김사부 2> -
