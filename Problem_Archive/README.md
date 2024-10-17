@@ -5,10 +5,10 @@
 > ⭐(알슐랭 스타): 모든 문제가 유익하지만 그 중에서도 다시금 풀어보면 좋을 것 같은 문제로, 과반수의 동의를 얻어야 획득이 가능해요.<br>
 > ❤️(좋아요): 알슐랭 스타에는 들지 못했지만 개인적으로 괜찮았던 문제로, 언제든 누구나 선정할 수 있어요.
 
-- 종우: ⭐⭐⭐⭐
-- 진주: ⭐⭐🌟
+- 종우: ⭐⭐⭐⭐🌟
+- 진주: ⭐⭐⭐
 - 수현: ⭐⭐⭐⭐⭐
-- 민채: ⭐⭐⭐🌟
+- 민채: ⭐⭐⭐⭐
 
 ### <hr>1주차
 [1210. [S/W 문제해결 기본] 2일차 - Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE&problemTitle=%5BS%2FW+%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0+%EA%B8%B0%EB%B3%B8%5D+2%EC%9D%BC%EC%B0%A8+-+Ladder1&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
@@ -196,3 +196,20 @@
 [[CodeTree] 예술성](https://www.codetree.ai/training-field/frequent-problems/problems/artistry/description?page=4&pageSize=5) ⭐
 - 각 그룹을 선별하고 그룹 간에 맞닿은 변의 개수 계산, 십자 회전, 4개의 정사각형 부분 회전 등 단순히 `구현`하면 되는 문제이다. 문제가 지저분하지 않기 때문에 좀 만 고민하면 직관적으로 풀 수 있는 좋은 연습문제였다.
 - 4개의 정사각형을 부분 회전할 때 분할 정복의 아이디어를 사용하면 깔끔하게 구현할 수 있다.
+
+### <hr>12주차
+> 누가 그럽디다.<br>
+포기하는 순간 핑곗거리를 찾게 되고<br>
+할 수 있다는 생각하는 순간에 방법을 찾는다고. - 드라마 <낭만닥터 김사부 2> 中 -
+
+[[BOJ] 4485. 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)
+- 가중치가 1인 그래프 문제에서 최단거리는 아묻따 BFS이지만, 이 문제에서는 더 적은 비용으로 이미 방문한 칸을 재방문 할 수 있기 때문에 bool이 아닌, 최소 비용을 저장하는 int 배열을 사용해 해결하면 되는 기본적인 BFS 연습문제였다.
+
+[[BOJ] 2211. 네트워크 복구](https://www.acmicpc.net/problem/2211)
+- 다익스트라 알고리즘에 경로 복원 아이디어를 적용하여 해결 가능한 문제였다.
+
+[[BOJ] 2629. 양팔저울](https://www.acmicpc.net/problem/2629) ⭐
+- 추가 최대 30개로, 완전 탐색을 불가능하다고 생각해 DP 알고리즘으로 배낭 문제처럼 값 직접 그려 채워나가면서 해결할 수 있었다. 스터디원의 다른 풀이로 시간 초과로 불가능하다고 생각한 백트래킹 알고리즘이 있었는데, 다시금 살펴 봐야겠다...
+
+[[BOJ] 1106. 호텔](https://www.acmicpc.net/problem/1106) ❤️
+- N이 최대 20이라 백트래킹을 통해 답의 후보보다 비용이 커질 경우 탐색을 종료하는 조건을 추가해 시도했는데 시간 초과가 발생했다. 최종적으로 DP로 해결했는데 스터디원들의 서로 다른 DP[i]에 대한 정의를 살펴볼 수 있었던 문제였다. 
