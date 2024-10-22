@@ -3,12 +3,10 @@ import java.util.*;
 class Solution {
     
     static class Person implements Comparable<Person> {
-        int num;
         int a;
         int b;
         
-        public Person(int num, int a, int b) {
-            this.num = num;
+        public Person(int a, int b) {
             this.a = a;
             this.b = b;
         }
@@ -28,7 +26,7 @@ class Solution {
         PriorityQueue<Person> pq = new PriorityQueue<>();
         
         for (int i = 0; i < scores.length; i++) {
-            pq.add(new Person(i, scores[i][0], scores[i][1]));
+            pq.add(new Person(scores[i][0], scores[i][1]));
         }
         
         int answer = 1;
