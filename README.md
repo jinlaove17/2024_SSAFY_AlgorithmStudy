@@ -22,18 +22,12 @@ ${\textsf{\color{red}※ 문제를 풀고 아래 양식에 맞춰 코드 상단�
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[BOJ] 1234. 크리스마스 트리](https://www.acmicpc.net/problem/1234)
-- [[BOJ] 1917. 정육면체 전개도](https://www.acmicpc.net/problem/1917)
-- [[BOJ] 10800. 컬러볼](https://www.acmicpc.net/problem/10800)
-- [[Programmers] 인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)
+- [[BOJ] 2887. 행성 터널](https://www.acmicpc.net/problem/2887)
+- [[BOJ] 2143. 두 배열의 합](https://www.acmicpc.net/problem/2143)
+- [[BOJ] 1304. 지역](https://www.acmicpc.net/problem/1304)
+- [[Programmers] 연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> 지금 한 번!<br>
-지금만 한 번!<br>
-마지막으로 한 번!<br>
-또, 또 한 번!<br>
-순간엔 편하겠지.<br>
-근데 말이야.<br>
-그 한 번들로 사람은 변하는거야.<br>
-\- 드라마 <[이태원 클라쓰](https://www.youtube.com/watch?v=VA8i54OyRos)> 中 -<br>
+> 사사로운 일들이 잔물결처럼 밀려와도 그것은 잔물결일 뿐 모두들 그러하듯 견딜 수 있다.<br>
+\- 드라마 <치즈인더트랩> 中 -<br>
