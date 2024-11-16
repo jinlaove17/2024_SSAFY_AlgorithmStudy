@@ -22,21 +22,17 @@ ${\textsf{\color{red}※ 문제를 풀고 아래 양식에 맞춰 코드 상단�
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [BOJ.2461 대표 선수](https://www.acmicpc.net/problem/2461)
-- [BOJ.1082 방번호](https://www.acmicpc.net/problem/1082)
-- [BOJ.14867 물통](https://www.acmicpc.net/problem/14867)
-- [BOJ.1327 소트 게임](https://www.acmicpc.net/problem/1327)
+- [[BOJ] 3097. 입국심사](https://www.acmicpc.net/problem/3079)
+- [[BOJ] 17352. 여러분의 다리가 되어 드리겠습니다! ](https://www.acmicpc.net/problem/17352)
+- [[BOJ] 1495. 기타리스트](https://www.acmicpc.net/problem/1495)
+- [[BOJ] 1713. 후보 추천하기](https://www.acmicpc.net/problem/1713)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> ***백이진:***<br>
- &emsp;&emsp;덕분에 웃었지.<br>
- &emsp;&emsp;웃고 나니까 면접 떨어진 것도 별거 아닌 거 같고, 이해 되던데.<br>
- &emsp;&emsp;비극을 희극으로 만드는 거.<br>
- &emsp;&emsp;넌 어쩌다 그런 생각을 해냈어?<br><br>
- > ***나희도:***<br>
- &emsp;&emsp;경기에서 맨날 졌으니까.<br>
- &emsp;&emsp;맨날 진다고 매일이 비극일 순 없잖아.<br>
- &emsp;&emsp;웃고나면 잊기 쉬워져.<br>
- &emsp;&emsp;잊어야 다음이 있어.<br><br>
-\- 드라마 <[스물다섯 스물하나](https://www.youtube.com/shorts/aedkJdBgOY0)> 中 -<br>
+> 누가 그러더라..<br>
+세상에서 제일 폭력적인 말이 남자답다, 여자답다, 엄마답다, 의사답다, 학생답다.<br>
+뭐 이런 말들이라고...<br>
+그냥... 다 처음 살아보는 인생이라서 서툰 건데...<br>
+그래서 안쓰러운 건데...<br>
+그래서 실수 좀 해도 되는 건데...<br><br>
+\- 드라마 <[괜찮아 사랑이야](https://youtu.be/3SvJRBfmU3Y?si=kflmAu6nKvmcDI2R&t=260)> 中 -<br>
