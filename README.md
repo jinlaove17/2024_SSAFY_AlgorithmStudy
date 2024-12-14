@@ -22,17 +22,16 @@ ${\textsf{\color{red}※ 문제를 풀고 아래 양식에 맞춰 코드 상단�
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[BOJ] 19535. ㄷㄷㄷㅈ](https://www.acmicpc.net/problem/19535)
-- [[SWEA] 9999. 광고 시간 정하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXIvPBC6aqUDFAXR)
-- [[BOJ] 1033. 칵테일](https://www.acmicpc.net/problem/1033)
-- [[BOJ] 3019. 테트리스](https://www.acmicpc.net/problem/3019)
+- [[BOJ] 1981. 배열에서 이동](https://www.acmicpc.net/problem/1981)
+- [[BOJ] 10775. 공항](https://www.acmicpc.net/problem/10775)
+- [[Programmers] [PCCP 기출문제] 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210)
+- [[SWEA] 13736. 사탕 분배](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AX8BB5d6T7gDFARO)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> 하루에 5분.<br>
-5분만 숨통 트여도 살 만하잖아.<br>
-편의점에 갔을 때 내가 문을 열어주면 "고맙습니다" 하는 학생 때문에 7초 설레고,<br>
-아침에 눈떴을 때 "아, 오늘 토요일이지" 10초 설레고,<br>
-그렇게 하루 5분만 채워요.<br>
-그게 내가 죽지 않고 사는법.<br><br>
-\- 드라마 <[나의 해방일지](https://www.youtube.com/watch?v=5Yzp98T6Dq0)> 中 -
+> 열심히 살아온 내 삶은 무너졌고, 나는 꽤 거창한 위로를 받길 원했다. 하지만,<br>
+떡볶이가,<br>
+오락실이,<br>
+쓰러진 채 있으라는 말도 안 되는 위로가<br>
+오늘 밤은 나를 편히 잠들게 해 줄 것 같다.<br><br>
+\- 드라마 <[닥터슬럼프](https://www.youtube.com/watch?v=ryhZhNHe8-g&list=PLay3nM-A3sMEUvUvzyAQYorS7RY1bzcnZ&index=7)> 中 -
