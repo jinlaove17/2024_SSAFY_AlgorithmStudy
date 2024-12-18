@@ -4,11 +4,10 @@
 
 > ⭐(알슐랭 스타): 모든 문제가 유익하지만 그 중에서도 다시금 풀어보면 좋을 것 같은 문제로, 과반수의 동의를 얻어야 획득이 가능해요.<br>
 > ❤️(좋아요): 알슐랭 스타에는 들지 못했지만 개인적으로 괜찮았던 문제로, 언제든 누구나 선정할 수 있어요.
-
-- 종우: ⭐⭐⭐⭐⭐⭐
-- 진주: ⭐⭐⭐⭐⭐
-- 수현: ⭐⭐⭐⭐⭐⭐⭐⭐
-- 민채: ⭐⭐⭐⭐
+- 종우: 🌟(total: 7)
+- 진주: 🌟(total: 6)
+- 수현: 🌟(total: 9)
+- 민채: 🌟(total: 5)
 
 ### <hr>1주차
 [1210. [S/W 문제해결 기본] 2일차 - Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE&problemTitle=%5BS%2FW+%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0+%EA%B8%B0%EB%B3%B8%5D+2%EC%9D%BC%EC%B0%A8+-+Ladder1&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
@@ -388,3 +387,24 @@
 
 [[BOJ] 1713. 후보 추천하기](https://www.acmicpc.net/problem/1713)
 - 문제에서 주어진 대로 자료형을 정의하고, 정렬을 적절히 활용하면서 시뮬레이션 하면 쉽게 해결할 수 있는 문제였다. 눈여겨볼 점은 Java 풀이의 경우, C++과 달리 PriorityQueu를 순회할 수 있기 때문에 정렬이 아닌 풀이가 가능했다는 점이다.
+
+### <hr>21주차
+> 하루에 5분.<br>
+5분만 숨통 트여도 살 만하잖아.<br>
+편의점에 갔을 때 내가 문을 열어주면 "고맙습니다" 하는 학생 때문에 7초 설레고,<br>
+아침에 눈떴을 때 "아, 오늘 토요일이지" 10초 설레고,<br>
+그렇게 하루 5분만 채워요.<br>
+그게 내가 죽지 않고 사는법.<br><br>
+\- 드라마 <[나의 해방일지](https://www.youtube.com/watch?v=5Yzp98T6Dq0)> 中 -
+
+[[BOJ] 19535. ㄷㄷㄷㅈ](https://www.acmicpc.net/problem/19535) ⭐
+- D트리를 구하기 위해 DFS 탐색을 하는 것은 시간초과가 발생하기 때문에 차수가 2인 정점과 인접한 정점의 차수가 2인 경우면 D트리의 조건을 만족한다는 아이디어와 G트리를 구할 때 조합이 사용되기 때문에 메모이제이션 방식을 활용해야겠다는 아이디어가 중요한 문제였다.
+
+[[SWEA] 9999. 광고 시간 정하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXIvPBC6aqUDFAXR) ⭐
+- 알고리즘 분류가 이분 탐색임을 알아도 어떻게 써야할지 도무지 감이 오지 않는 어려운 문제였다. 다른 사람의 풀이를 보고 이해를 했기 때문에 반드시 다시 풀어봐야 할 것 같다.
+
+[[BOJ] 1033. 칵테일](https://www.acmicpc.net/problem/1033) ⭐
+- 조금 수학적인 사고 방식이 필요했던 문제로, 이 문제에 왜 그래프가 사용되고, 최소 공배수와 최대 공약수를 어떻게 사용할 것인지 고민을 해봐야 했다. 추후에 다시 풀어봐야 할 것 같다.
+
+[[BOJ] 3019. 테트리스](https://www.acmicpc.net/problem/3019) ⭐
+- 각 블럭이 맞닿는 면의 높이를 회전별로 사전에 정의한 뒤, 깔려 있는 블록의 높이와 비교하며 이전 칸과의 차이 값이 같으면 블럭을 놓을 수 있는 경우로 판단할 수 있다. 이 풀이 외에도, 그리드에 직접 블록을 추가하고, 삭제하는 시뮬레이션 느낌으로도 해결하는 풀이를 살펴볼 수 있었다.
