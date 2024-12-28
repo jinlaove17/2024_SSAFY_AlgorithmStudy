@@ -4,10 +4,10 @@
 
 > ⭐(알슐랭 스타): 모든 문제가 유익하지만 그 중에서도 다시금 풀어보면 좋을 것 같은 문제로, 과반수의 동의를 얻어야 획득이 가능해요.<br>
 > ❤️(좋아요): 알슐랭 스타에는 들지 못했지만 개인적으로 괜찮았던 문제로, 언제든 누구나 선정할 수 있어요.
-- 종우: 🌟(total: 7)
-- 진주: 🌟(total: 6)
-- 수현: 🌟(total: 9)
-- 민채: 🌟(total: 5)
+- 종우: ⭐(total: 7)
+- 진주: ⭐🌟(total: 7)
+- 수현: ⭐(total: 9)
+- 민채: ⭐(total: 5)
 
 ### <hr>1주차
 [1210. [S/W 문제해결 기본] 2일차 - Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE&problemTitle=%5BS%2FW+%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0+%EA%B8%B0%EB%B3%B8%5D+2%EC%9D%BC%EC%B0%A8+-+Ladder1&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
