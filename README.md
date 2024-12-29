@@ -23,18 +23,16 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 접근 방식을 올리�
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[Programmers] 340211. [PCCP 기출문제] 3번 / 충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)
-- [[BOJ] 9370. 미확인 도착지](https://www.acmicpc.net/problem/9370)
-- [[BOJ] 3665. 최종 순위](https://www.acmicpc.net/problem/3665)
-- [[Programmers] 76503. 모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503)
+- [[Programmers] 92343. 양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)
+- [[BOJ] 2482. 색상환](https://www.acmicpc.net/problem/2482)
+- [[BOJ] 2307. 도로검문](https://www.acmicpc.net/problem/2307)
+- [[BOJ] 1595. 북쪽나라의 도로](https://www.acmicpc.net/problem/1595)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> 이제야 알 것 같아.<br>
-인생에 해피엔딩은 없다는 걸.<br>
-오늘은 행복하다가도<br>
-내일은 시련이 닥쳐오고<br>
-모레는 또다시 행복해지고<br>
-난 그저 반복되는 하루를 잘 살아내면 되는 거겠지.<br>
-내 곁에 있는 소중한 사람들과 함께.<br><br>
-\- 드라마 <나의 해피엔드> 中 -
+> 잘난 거랑 잘사는 거랑 다른 게 뭔지 알어?<br>
+못난 놈이라도 잘난 것들 사이에 비집고 들어가서<br>
+"나 여기 살아있다.", "나 보고 다른 못난 놈들 힘내라."<br>
+이러는 게 진짜 잘사는 거야.<br>
+잘난 거는 타고나야 되지만, 잘 사는 거는 네 할 나름이라고.<br><br>
+\- 드라마 <[눈이 부시게](https://www.youtube.com/watch?v=K7vbpb9g1eg)> 中 -
