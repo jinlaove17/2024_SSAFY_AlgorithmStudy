@@ -23,16 +23,13 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 접근 방식을 올리�
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[Programmers] 92343. 양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)
-- [[BOJ] 2482. 색상환](https://www.acmicpc.net/problem/2482)
-- [[BOJ] 2307. 도로검문](https://www.acmicpc.net/problem/2307)
-- [[BOJ] 1595. 북쪽나라의 도로](https://www.acmicpc.net/problem/1595)
+- [[Programmers] 92344. 파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)
+- [[Programmers] 258711. 도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)
+- [[BOJ] 2138. 전구와 스위치](https://www.acmicpc.net/problem/2138)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> 잘난 거랑 잘사는 거랑 다른 게 뭔지 알어?<br>
-못난 놈이라도 잘난 것들 사이에 비집고 들어가서<br>
-"나 여기 살아있다.", "나 보고 다른 못난 놈들 힘내라."<br>
-이러는 게 진짜 잘사는 거야.<br>
-잘난 거는 타고나야 되지만, 잘 사는 거는 네 할 나름이라고.<br><br>
-\- 드라마 <[눈이 부시게](https://www.youtube.com/watch?v=K7vbpb9g1eg)> 中 -
+> 버텨라, 꼭 이겨라.<br>
+안될 것 같더라도 끝은 봐!<br>
+살다 보면은 끝을 알지만 시작하는 것도 많아.<br><br>
+\- 드라마 <[미생](https://youtu.be/CfQ-A0gzsno?si=V0lumYFJoTSQYrsf&t=200)> 中 -
