@@ -1,3 +1,23 @@
+/**
+ * 도넛과 막대 그래프
+ * https://school.programmers.co.kr/learn/courses/30/lessons/258711
+ * 
+ * @author minchae
+ * @date 2025. 1. 7.
+ * 
+ * 문제 풀이
+ * - 생성한 정점 개수 : 나가는 간선 개수는 2개 이상, 들어오는 건 없음
+ * - 막대 : 나가는 간선 없음, 들어오는 간선 1개 이상
+ * - 8자 모양 : 나가는 간선 2개, 들어오는 간선 2개 이상
+ * - 도넛 : 전체 개수에서 3가지의 개수를 빼면 됨
+ *
+ * 시간 복잡도
+ * O(E)
+ *
+ * 실행 시간
+ * 167.13 ms
+ */
+
 public class DonutStickGraph {
 	
 	static int[][] exchangeCnt;
