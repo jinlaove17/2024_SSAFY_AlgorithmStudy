@@ -23,13 +23,17 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 접근 방식을 올리�
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[Programmers] 92344. 파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)
-- [[Programmers] 258711. 도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)
-- [[BOJ] 2138. 전구와 스위치](https://www.acmicpc.net/problem/2138)
+- [[Programmers] 258709. 주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)
+- [[Programmers] 258705. 산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705)
+- [[BOJ] 2655. 가장높은탑쌓기](https://www.acmicpc.net/problem/2655)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> 버텨라, 꼭 이겨라.<br>
-안될 것 같더라도 끝은 봐!<br>
-살다 보면은 끝을 알지만 시작하는 것도 많아.<br><br>
-\- 드라마 <[미생](https://youtu.be/CfQ-A0gzsno?si=V0lumYFJoTSQYrsf&t=200)> 中 -
+> 할멈이 말했다.<br>
+사는 건 후회와 실패의 반복이라고.<br>
+나는 빈정거렸다.<br>
+그럴 거 살아 뭐하냐고.<br>
+할멈은 다시 말했다.<br>
+더 멋지게, 후회하고 실패하기 위해서라고.<br>
+그러니 쫄지 말라고<br><br>
+\- 드라마 <[그냥 사랑하는 사이](https://youtu.be/vrxCUazywdU?si=nGhhcAembWDapa9c&t=320)> 中 -
