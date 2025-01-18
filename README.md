@@ -23,17 +23,13 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 접근 방식을 올리�
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[Programmers] 258709. 주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)
-- [[Programmers] 258705. 산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705)
-- [[BOJ] 2655. 가장높은탑쌓기](https://www.acmicpc.net/problem/2655)
+- [[BOJ] 17471. 게리멘더링](https://www.acmicpc.net/problem/17471)
+- [[BOJ] 21278. 호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)
+- [[BOJ] 1451. 직사각형으로 나누기](https://www.acmicpc.net/problem/1451)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> 할멈이 말했다.<br>
-사는 건 후회와 실패의 반복이라고.<br>
-나는 빈정거렸다.<br>
-그럴 거 살아 뭐하냐고.<br>
-할멈은 다시 말했다.<br>
-더 멋지게, 후회하고 실패하기 위해서라고.<br>
-그러니 쫄지 말라고<br><br>
-\- 드라마 <[그냥 사랑하는 사이](https://youtu.be/vrxCUazywdU?si=nGhhcAembWDapa9c&t=320)> 中 -
+> 아빠가 그랬어.<br>
+마냥 맑은 날이면 세상이 온통 사막이라고.<br>
+비도 오고 눈도 오고 해야 땅에서 풀도 나고 이런 맛난 귤도 나지.<br><br>
+\- 드라마 <[스타트업](https://www.youtube.com/shorts/0ujAwh3rLbU)> 中 -
