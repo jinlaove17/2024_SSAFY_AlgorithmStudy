@@ -15,7 +15,7 @@
 
 ### ✨ 문제 풀이 방식
 ${\textsf{\color{red}※ 문제를 풀고 아래 양식에 맞춰 코드 상단에 주석을 남겨주세요.}}$
-${\textsf{\color{red}※ 문제를 풀지 못했다면, 접근 방식을 올리고 추후 해결 코드를 Unsolved에 올려주세요.}}$
+${\textsf{\color{red}※ 문제를 풀지 못했다면, 추후 문제를 풀고 Unsolved에 올려주세요.}}$
 - 문제 접근 아이디어 및 알고리즘 판단 사유
 - 시간 복잡도
 - 실행 시간
@@ -23,13 +23,21 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 접근 방식을 올리�
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[BOJ] 17471. 게리멘더링](https://www.acmicpc.net/problem/17471)
-- [[BOJ] 21278. 호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)
-- [[BOJ] 1451. 직사각형으로 나누기](https://www.acmicpc.net/problem/1451)
+- [[BOJ] 1103. 게임](https://www.acmicpc.net/problem/1103)
+- [[BOJ] 22251. 빌런 호석](https://www.acmicpc.net/problem/22251)
+- [[BOJ] 150366. 표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> 아빠가 그랬어.<br>
-마냥 맑은 날이면 세상이 온통 사막이라고.<br>
-비도 오고 눈도 오고 해야 땅에서 풀도 나고 이런 맛난 귤도 나지.<br><br>
-\- 드라마 <[스타트업](https://www.youtube.com/shorts/0ujAwh3rLbU)> 中 -
+> 다 지나가 은호야.<br>
+할애비가 지금껏 살아보니까 그래.<br>
+별 볼일이 다 있었는데 지금은 기억이 안나.<br>
+다 지나가 버렸어.<br>
+물론 살면서 안 넘어지면 좋지.<br>
+탄탄대로면 얼마나 좋아.<br>
+근데 넘어져도 괜찮아.<br>
+무릎 좀 까지면 어때.<br>
+네 잘못아냐. 알지?<br>
+잘 견뎠고, 잘 소리쳤어.<br>
+어제 아주 좋았어.<br><br>
+\- 드라마 <[나빌레라](https://youtu.be/gqgne1X7eR4?si=J-0flfBGKQDGgRl3&t=112)> 中 -
