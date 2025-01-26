@@ -4,9 +4,9 @@
 
 > ⭐(알슐랭 스타): 모든 문제가 유익하지만 그 중에서도 다시금 풀어보면 좋을 것 같은 문제로, 과반수의 동의를 얻어야 획득이 가능해요.<br>
 > ❤️(좋아요): 알슐랭 스타에는 들지 못했지만 개인적으로 괜찮았던 문제로, 언제든 누구나 선정할 수 있어요.
-- 종우: ⭐🌟(total: 8)
-- 수현: ⭐⭐🌟(total: 11)
-- 민채: ⭐🌟(total: 6)
+- 종우: ⭐⭐🌟(total: 9)
+- 수현: ⭐⭐⭐(total: 11)
+- 민채: ⭐⭐🌟(total: 7)
 
 ### <hr>1주차
 [1210. [S/W 문제해결 기본] 2일차 - Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE&problemTitle=%5BS%2FW+%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0+%EA%B8%B0%EB%B3%B8%5D+2%EC%9D%BC%EC%B0%A8+-+Ladder1&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
@@ -484,3 +484,22 @@
 
 [[BOJ] 2138. 전구와 스위치](https://www.acmicpc.net/problem/2138) ⭐
 - 이전에도 전구 관련된 문제가 있었기 때문에 그리디 냄새를 맡을 수 있었다. 첫 시작 버튼을 누르냐, 누르지 않느냐에 따라 이후의 상태가 영향을 받게되고 앞쪽부터 고려해 나가야 범위가 줄어 최소 횟수임을 보장할 수 있다는 생각이 조금 어려웠던 문제였다.
+
+### <hr>26주차
+> 할멈이 말했다.<br>
+사는 건 후회와 실패의 반복이라고.<br>
+나는 빈정거렸다.<br>
+그럴 거 살아 뭐하냐고.<br>
+할멈은 다시 말했다.<br>
+더 멋지게, 후회하고 실패하기 위해서라고.<br>
+그러니 쫄지 말라고<br><br>
+\- 드라마 <[그냥 사랑하는 사이](https://youtu.be/vrxCUazywdU?si=nGhhcAembWDapa9c&t=320)> 中 -
+
+[[Programmers] 258709. 주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709) ⭐
+- 주사위를 동일한 개수로 두 그룹으로 나누기 위해서 조합 or 비트마스킹을 사용한 다음, 매 턴에 나올 주사위를 선택하며 깊이가 n / 2가 됐을 때, 합을 저장하는 방식으로 진행하고 한 그룹의 합을 정렬하여 이분 탐색을 수행하여 문제를 해결할 수 있었다.
+
+[[Programmers] 258705. 산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705)
+- 해결하지 못한 문제 중 하나로, 마름모가 들어갈 수 있는 위치가 핵심이 되는 것 같았다. 많이 복잡해서 그림을 그려보며 나중에 다시 풀어 Unsolved에 올려야겠다.
+
+[[BOJ] 2655. 가장높은탑쌓기](https://www.acmicpc.net/problem/2655) ⭐
+- 5개의 조건 중 밑넓이와 무게만을 고려하면 되므로 둘 중 하나로 먼저 정렬을 해준다. 그러면 이제 무게만 고려하면 되는 것인데 여기서 완전 탐색으로 시간 초과가 발생하기 때문에 LIS 알고리즘을 떠올려야 하는 것이 핵심인 문제였다.
