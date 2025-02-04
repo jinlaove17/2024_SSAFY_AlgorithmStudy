@@ -4,9 +4,9 @@
 
 > ⭐(알슐랭 스타): 모든 문제가 유익하지만 그 중에서도 다시금 풀어보면 좋을 것 같은 문제로, 과반수의 동의를 얻어야 획득이 가능해요.<br>
 > ❤️(좋아요): 알슐랭 스타에는 들지 못했지만 개인적으로 괜찮았던 문제로, 언제든 누구나 선정할 수 있어요.
-- 종우: ⭐⭐🌟(total: 9)
+- 종우: ⭐⭐⭐(total: 9)
 - 수현: ⭐⭐⭐(total: 11)
-- 민채: ⭐⭐🌟(total: 7)
+- 민채: ⭐⭐⭐(total: 7)
 
 ### <hr>1주차
 [1210. [S/W 문제해결 기본] 2일차 - Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE&problemTitle=%5BS%2FW+%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0+%EA%B8%B0%EB%B3%B8%5D+2%EC%9D%BC%EC%B0%A8+-+Ladder1&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
@@ -503,3 +503,18 @@
 
 [[BOJ] 2655. 가장높은탑쌓기](https://www.acmicpc.net/problem/2655) ⭐
 - 5개의 조건 중 밑넓이와 무게만을 고려하면 되므로 둘 중 하나로 먼저 정렬을 해준다. 그러면 이제 무게만 고려하면 되는 것인데 여기서 완전 탐색으로 시간 초과가 발생하기 때문에 LIS 알고리즘을 떠올려야 하는 것이 핵심인 문제였다.
+
+### <hr>27주차
+> 아빠가 그랬어.<br>
+마냥 맑은 날이면 세상이 온통 사막이라고.<br>
+비도 오고 눈도 오고 해야 땅에서 풀도 나고 이런 맛난 귤도 나지.<br><br>
+\- 드라마 <[스타트업](https://www.youtube.com/shorts/0ujAwh3rLbU)> 中 -
+
+[[BOJ] 17471. 게리멘더링](https://www.acmicpc.net/problem/17471)
+- 각 구역을 둘 중 하나의 선거구로 정하기 위해, 비트 마스킹을 사용하거나, 재귀 호출을 이용한 뒤 각 선거구가 연결 되어 있는지 그래프 탐색을 통해 판별하면 되는 문제였다.
+
+[[BOJ] 21278. 호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)
+- 주어진 건물 중 치킨집을 오픈할 2개의 건물을 조합으로 선택하고 나머지 건물까지의 최소 거리를 구하하는 방식을 사용하거나, 플로이드 워셜을 이용해 문제를 해결할 수 있었다.
+
+[[BOJ] 1451. 직사각형으로 나누기](https://www.acmicpc.net/problem/1451)
+- 직사각형을 3개의 작은 직사각형으로 나누는 경우를 직접 그려보면 6개의 경우가 나온다는 것을 알 수 있고, 문제에서 합의 곱을 최대로 하는 경우를 구하라고 했기 때문에 누적합을 떠올려서 매번 합을 구하는 연산을 최적화할 수 있다. 위 과정을 거치면 답을 도출할 수 있을 것이다.
