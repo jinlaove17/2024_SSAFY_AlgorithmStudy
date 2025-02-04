@@ -23,21 +23,13 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 추후 문제를 풀고 
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[BOJ] 1103. 게임](https://www.acmicpc.net/problem/1103)
-- [[BOJ] 22251. 빌런 호석](https://www.acmicpc.net/problem/22251)
-- [[BOJ] 150366. 표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)
+- [[PROGRAMMERS] 118669. 등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)
+- [[BOJ] 16988. Baaaaaaaaaduk2 (Easy)](https://www.acmicpc.net/problem/16988)
+- [[BOJ] 4195. 친구 네트워크](https://www.acmicpc.net/problem/4195)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> 다 지나가 은호야.<br>
-할애비가 지금껏 살아보니까 그래.<br>
-별 볼일이 다 있었는데 지금은 기억이 안나.<br>
-다 지나가 버렸어.<br>
-물론 살면서 안 넘어지면 좋지.<br>
-탄탄대로면 얼마나 좋아.<br>
-근데 넘어져도 괜찮아.<br>
-무릎 좀 까지면 어때.<br>
-네 잘못아냐. 알지?<br>
-잘 견뎠고, 잘 소리쳤어.<br>
-어제 아주 좋았어.<br><br>
-\- 드라마 <[나빌레라](https://youtu.be/gqgne1X7eR4?si=J-0flfBGKQDGgRl3&t=112)> 中 -
+> 누군가의 자랑으로 사는 거 그거 되게 힘들어요.<br>
+실망이 무서워서 계속 숨게 되고 잘하는 척, 괜찮은 척해야 돼요.<br>
+그러니까 우리 자랑이 되지 말아요.<br><br>
+\- 드라마 <[스타트업](https://youtu.be/ehcslEKYeU4?si=TK3hfdD7WErQifPm&t=82)> 中 -
