@@ -23,13 +23,25 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 추후 문제를 풀고 
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[PROGRAMMERS] 118669. 등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)
-- [[BOJ] 16988. Baaaaaaaaaduk2 (Easy)](https://www.acmicpc.net/problem/16988)
-- [[BOJ] 4195. 친구 네트워크](https://www.acmicpc.net/problem/4195)
+- [[BOJ] 20165. 인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165)
+- [[Programmers] 160585. 혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)
+- [[BOJ] 1414. 불우이웃돕기](https://www.acmicpc.net/problem/1414)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> 누군가의 자랑으로 사는 거 그거 되게 힘들어요.<br>
-실망이 무서워서 계속 숨게 되고 잘하는 척, 괜찮은 척해야 돼요.<br>
-그러니까 우리 자랑이 되지 말아요.<br><br>
-\- 드라마 <[스타트업](https://youtu.be/ehcslEKYeU4?si=TK3hfdD7WErQifPm&t=82)> 中 -
+ > ***덕출:***<br>
+ &emsp;&emsp;​축구 다시 하려면 테스트 같은 거 받아야 하는거지?<br><br>
+ > ***호범:***<br>
+ &emsp;&emsp;에이 무슨 소리에요.<br>
+ &emsp;&emsp;아직 몸도 다 못 만들었는데.<br>
+ &emsp;&emsp;준비되려면 한참 멀었어요.<br><br>
+ > ***덕출:***<br>
+ &emsp;&emsp;​어~ 준비 될 때까지 기다리지마~<br><br>
+ > ***호범:***<br>
+ &emsp;&emsp;​아니, 뭐 그럼 무작정 들이밀어요?<br><br>
+ > ***덕출:***<br>
+ &emsp;&emsp;내가 살아보니까 완벽하게 준비된 순간은 안 오더라고.<br>
+ &emsp;&emsp;그냥 지금 시작하면서 채워.<br>
+ &emsp;&emsp;아끼다 뭐 된다는 말 알지?<br>
+ &emsp;&emsp;무작정 부족해도 들이 밀어.<br><br>
+ \- 드라마 <[나빌레라](https://youtu.be/dPDtYtR_kM4?si=hBTzzfK4mBbPaqCH&t=33) 中> -
