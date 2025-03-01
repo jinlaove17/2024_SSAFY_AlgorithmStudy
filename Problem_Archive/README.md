@@ -4,9 +4,9 @@
 
 > ⭐(알슐랭 스타): 모든 문제가 유익하지만 그 중에서도 다시금 풀어보면 좋을 것 같은 문제로, 과반수의 동의를 얻어야 획득이 가능해요.<br>
 > ❤️(좋아요): 알슐랭 스타에는 들지 못했지만 개인적으로 괜찮았던 문제로, 언제든 누구나 선정할 수 있어요.
-- 종우: ⭐⭐⭐(total: 9)
-- 수현: ⭐⭐⭐⭐🌟(total: 13)
-- 민채: ⭐⭐⭐(total: 7)
+- 종우: ⭐⭐⭐🌟(total: 10
+- 수현: ⭐⭐⭐⭐⭐(total: 13)
+- 민채: ⭐⭐⭐🌟(total: 8)
 
 ### <hr>1주차
 [1210. [S/W 문제해결 기본] 2일차 - Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE&problemTitle=%5BS%2FW+%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0+%EA%B8%B0%EB%B3%B8%5D+2%EC%9D%BC%EC%B0%A8+-+Ladder1&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
@@ -556,3 +556,30 @@
 
 [[BOJ] 4195. 친구 네트워크](https://www.acmicpc.net/problem/4195)
 - 두 친구 간의 네트워크에 몇 명이 있는지를 구해야 하기 때문에 Union-Find로 서로소 집합을 나누되, parent의 값을 음수로하여 집합의 크기를 나타내는 방식으로 문제를 쉽게 해결할 수 있었다.
+
+### <hr>30주차
+ > ***덕출:***<br>
+ &emsp;&emsp;​축구 다시 하려면 테스트 같은 거 받아야 하는거지?<br><br>
+ > ***호범:***<br>
+ &emsp;&emsp;에이 무슨 소리에요.<br>
+ &emsp;&emsp;아직 몸도 다 못 만들었는데.<br>
+ &emsp;&emsp;준비되려면 한참 멀었어요.<br><br>
+ > ***덕출:***<br>
+ &emsp;&emsp;​어~ 준비 될 때까지 기다리지마~<br><br>
+ > ***호범:***<br>
+ &emsp;&emsp;​아니, 뭐 그럼 무작정 들이밀어요?<br><br>
+ > ***덕출:***<br>
+ &emsp;&emsp;내가 살아보니까 완벽하게 준비된 순간은 안 오더라고.<br>
+ &emsp;&emsp;그냥 지금 시작하면서 채워.<br>
+ &emsp;&emsp;아끼다 뭐 된다는 말 알지?<br>
+ &emsp;&emsp;무작정 부족해도 들이 밀어.<br><br>
+ \- 드라마 <[나빌레라](https://youtu.be/dPDtYtR_kM4?si=hBTzzfK4mBbPaqCH&t=33) 中> -
+
+[[BOJ] 20165. 인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165) ⭐
+- 매 공격 시, 2차원 방문 체크 배열을 하나 더 선언해서 각 칸의 높이만큼 flag 값을 체크하며, 한 칸씩 나아가다가 flag가 false인 칸에 처음으로 도달하면 종료하는 방식으로 문제를 쉽게 해결할 수 있었다.
+
+[[Programmers] 160585. 혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)
+- 각 경우를 차근차근 따져보면 시뮬레이션+백트래킹 방식으로 일일이 따져보지 않아도 답을 도출할 수 있는 문제였다.
+
+[[BOJ] 1414. 불우이웃돕기](https://www.acmicpc.net/problem/1414) ⭐
+- 다솜이가 기부할 수 있는 랜선 길이의 최댓값은 다솜이가 최소 길이의 랜선을 사용하여 모든 컴퓨터를 연결하는 것이다. 즉, MST임을 알 수 있다. MST에는 크루스칼과 프림이 있었는데 간만에 프림을 사용하다 문제를 겪었다. 그래프가 단방향이라 a->b와 b->a의 가중치가 다르기 때문에 둘 중 최솟값을 구해 양방향으로 연결해주어야 한다는 것이다. a에서 b로 직접적으로 이동할 수 없더라도, c에서 만나게 되면 연결된 것으로 간주되기 때문에 이와 같은 번형이 가능한 것임을 깨달아야 한다. 또한 n이 1일 때는 이미 모든 컴퓨터가 연결되어 있기 때문에 그 즉시 가중치를 반환하면 된다.
