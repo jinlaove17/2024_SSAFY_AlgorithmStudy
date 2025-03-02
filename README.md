@@ -23,25 +23,18 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 추후 문제를 풀고 
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[BOJ] 20165. 인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165)
-- [[Programmers] 160585. 혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)
-- [[BOJ] 1414. 불우이웃돕기](https://www.acmicpc.net/problem/1414)
+- [[Programmers] 389480. 완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480)
+- [[BOJ] 22254. 공정 컨설턴트 호석](https://www.acmicpc.net/problem/22254)
+- [[BOJ] 16472. 고냥이](https://www.acmicpc.net/problem/16472)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
- > ***덕출:***<br>
- &emsp;&emsp;​축구 다시 하려면 테스트 같은 거 받아야 하는거지?<br><br>
- > ***호범:***<br>
- &emsp;&emsp;에이 무슨 소리에요.<br>
- &emsp;&emsp;아직 몸도 다 못 만들었는데.<br>
- &emsp;&emsp;준비되려면 한참 멀었어요.<br><br>
- > ***덕출:***<br>
- &emsp;&emsp;​어~ 준비 될 때까지 기다리지마~<br><br>
- > ***호범:***<br>
- &emsp;&emsp;​아니, 뭐 그럼 무작정 들이밀어요?<br><br>
- > ***덕출:***<br>
- &emsp;&emsp;내가 살아보니까 완벽하게 준비된 순간은 안 오더라고.<br>
- &emsp;&emsp;그냥 지금 시작하면서 채워.<br>
- &emsp;&emsp;아끼다 뭐 된다는 말 알지?<br>
- &emsp;&emsp;무작정 부족해도 들이 밀어.<br><br>
- \- 드라마 <[나빌레라](https://youtu.be/dPDtYtR_kM4?si=hBTzzfK4mBbPaqCH&t=33) 中> -
+> 인간은요, 평생을 망가질까 봐 두려워하면서 살아요.<br>
+전 그랬던 거 같아요.<br>
+처음엔 감독님이 망해서 정말 좋았는데, 망한 감독님이 아무렇지 않아 보여서 더 좋았어요.<br>
+'망해도 괜찮은 거구나', '아무것도 아니었구나', '망가져도 행복할 수 있구나'...<br>
+안심이 됐어요.<br>
+이 동네도 망가진 거 같고, 사람들도 다 망가진 거 같은데...<br>
+전혀 불행해 보이지가 않아요. 절대로.<br>
+그래서 좋아요, 날 안심시켜 줘서.<br><br>
+ \- 드라마 <[나의 아저씨](https://youtu.be/IoMXFcQHGII?si=VuQBb5mNVXaNmP0X&t=149) 中> -
