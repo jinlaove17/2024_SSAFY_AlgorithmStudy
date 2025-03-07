@@ -3,7 +3,7 @@
  * https://school.programmers.co.kr/learn/courses/30/lessons/389480
  *
  * @author minchae
- * @date 2025. 3. 5.
+ * @date 2025. 3. 7.
  *
  * 문제 풀이
  * - 일단 b가 다 훔친다고 생각하고 거기서 m미만으로 줄여가기
@@ -14,14 +14,12 @@
  * - 여기서 a의 흔적이 최소가 되면 된다. -> 그럼 dp 배열의 초기값은 다 Integer.MAX_VALUE로 설정해야 하나?
  * - 그럼 dp 배열 어떻게 값 계산할 건데.. 일단 아이템 길이만큼 반복
  * - 그다음 a를 선택한 경우, b를 선택한 경우 두 가지를 나눔
- * 
- * 테케에서 틀리는 이유를 못찾겠어서 한번 봐달라고 올린 거니까 혼내지 말아줘..ㅜ
  *
  * 시간 복잡도
- * O()
+ * O(len * m)
  *
  * 실행 시간
- *  ms
+ * 0.58 ms
  */
 
 import java.util.*;
@@ -35,7 +33,7 @@ public class Solution {
     	
     	int[][] dp = new int[len + 1][m];
     	
-    	// 일단 다 최댓값으로 초기화 -> n이 어차피 최댓값이니까 n으로 초기화
+    	// 일단 다 최댓값으로 초기화
     	for (int i = 0; i <= len; i++) {
     		Arrays.fill(dp[i], n);
     	}
@@ -53,18 +51,18 @@ public class Solution {
     			
     			// b를 선택하는 경우 -> a의 흔적 개수는 똑같으니까 이전 물건 훔친 거랑 현재 거랑 비교해서 작은 걸로 갱신
     			if (j + bCnt < m) {
-    				dp[i][j + bCnt] = Math.max(dp[i][j + bCnt], dp[i - 1][j]);
+    				dp[i][j + bCnt] = Math.min(dp[i][j + bCnt], dp[i - 1][j]);
     			}
     		}
     	}
-    	
-    	answer = n;
+        
+        int answer = n;
     	
     	for (int i = 0; i < m; i++) {
     		answer = Math.min(answer, dp[len][i]);
     	}
-    	
-    	return answer >= n ? -1 : answer;
+
+        return answer >= n ? -1 : answer;
     	
     	// 시간초과
 //        int bSum = 0;
