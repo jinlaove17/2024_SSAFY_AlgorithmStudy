@@ -23,18 +23,21 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 추후 문제를 풀고 
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[Programmers] 389480. 완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480)
-- [[BOJ] 22254. 공정 컨설턴트 호석](https://www.acmicpc.net/problem/22254)
-- [[BOJ] 16472. 고냥이](https://www.acmicpc.net/problem/16472)
+- [[Programmers] 388353. 지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353)
+- [[BOJ] 21276. 계보 복원가 호석](https://www.acmicpc.net/problem/21276)
+- [[BOJ] 2662. 기업투자](https://www.acmicpc.net/problem/2662)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> 인간은요, 평생을 망가질까 봐 두려워하면서 살아요.<br>
-전 그랬던 거 같아요.<br>
-처음엔 감독님이 망해서 정말 좋았는데, 망한 감독님이 아무렇지 않아 보여서 더 좋았어요.<br>
-'망해도 괜찮은 거구나', '아무것도 아니었구나', '망가져도 행복할 수 있구나'...<br>
-안심이 됐어요.<br>
-이 동네도 망가진 거 같고, 사람들도 다 망가진 거 같은데...<br>
-전혀 불행해 보이지가 않아요. 절대로.<br>
-그래서 좋아요, 날 안심시켜 줘서.<br><br>
- \- 드라마 <[나의 아저씨](https://youtu.be/IoMXFcQHGII?si=VuQBb5mNVXaNmP0X&t=149) 中> -
+> 지금 삶이 힘든 당신,<br>
+이 세상에 태어난 이상<br>
+당신은 이 모든 걸 매일 누릴 자격이 있습니다.<br>
+대단하지 않은 하루가 지나고<br>
+또 별것 아닌 하루가 온다 해도,<br>
+인생은 살 가치가 있습니다.<br>
+후회만 가득한 과거와<br>
+불안하기만 한 미래 때문에<br>
+지금을 망치지 마세요.<br>
+오늘을 살아가세요, 눈이 부시게.<br>
+당신은 그럴 자격이 있습니다.<br><br>
+ \- 드라마 <[눈이 부시게](https://youtu.be/bVwG1sdShiY?si=8dBdRISN9N1MZgdi&t=157) 中> -
