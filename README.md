@@ -23,21 +23,21 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 추후 문제를 풀고 
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[Programmers] 388353. 지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353)
-- [[BOJ] 21276. 계보 복원가 호석](https://www.acmicpc.net/problem/21276)
-- [[BOJ] 2662. 기업투자](https://www.acmicpc.net/problem/2662)
+- [[BOJ] 2146. 다리 만들기](https://www.acmicpc.net/problem/2146)
+- [[BOJ] 22255. 호석사우루스](https://www.acmicpc.net/problem/22255)
+- [[CodeTree] 고대 문명 유적 탐사](https://www.codetree.ai/ko/frequent-problems/problems/ancient-ruin-exploration/description)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> 지금 삶이 힘든 당신,<br>
-이 세상에 태어난 이상<br>
-당신은 이 모든 걸 매일 누릴 자격이 있습니다.<br>
-대단하지 않은 하루가 지나고<br>
-또 별것 아닌 하루가 온다 해도,<br>
-인생은 살 가치가 있습니다.<br>
-후회만 가득한 과거와<br>
-불안하기만 한 미래 때문에<br>
-지금을 망치지 마세요.<br>
-오늘을 살아가세요, 눈이 부시게.<br>
-당신은 그럴 자격이 있습니다.<br><br>
- \- 드라마 <[눈이 부시게](https://youtu.be/bVwG1sdShiY?si=8dBdRISN9N1MZgdi&t=157) 中> -
+> 이 지구상 어느 한 곳에 요만한 바늘 하나를 꽂고 저 하늘 꼭대기에서 밀씨를 또 딱 하나 떨어뜨리는 거야.<br>
+그 밀씨가 나풀나풀 떨어져서 그 바늘 위에 꽂힐 확률.<br>
+바로 그 계산도 안되는 기가막힌 확률로 니들이 지금 이곳,<br>
+지구상에 그 하도 많은 나라 중에서도 그 하고 많은 나라 중에서도 대한민국,<br>
+중에서도 서울,<br>
+서울 안에서도 세현 고등학교,<br>
+그 중에서도 2학년,<br>
+그거로도 모자라서 5반에서 만난 거다.<br>
+지금 니들 앞에 옆에 있는 친구들도 다 그렇게 엄청난 확률로 만난 거고,<br>
+또 나하고도 그렇게 만난거다.<br>
+그걸 인연이라고 부르는 거다.<br><br>
+ \- 드라마 <[번지점프를 하다](https://www.youtube.com/shorts/kKHnAiTJlEY) 中> -
