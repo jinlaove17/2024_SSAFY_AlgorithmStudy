@@ -4,9 +4,9 @@
 
 > ⭐(알슐랭 스타): 모든 문제가 유익하지만 그 중에서도 다시금 풀어보면 좋을 것 같은 문제로, 과반수의 동의를 얻어야 획득이 가능해요.<br>
 > ❤️(좋아요): 알슐랭 스타에는 들지 못했지만 개인적으로 괜찮았던 문제로, 언제든 누구나 선정할 수 있어요.
-- 종우: ⭐⭐⭐⭐🌟(total: 11)
-- 수현: ⭐⭐⭐⭐⭐(total: 13)
-- 민채: ⭐⭐⭐⭐(total: 8)
+- 종우: ⭐⭐⭐⭐⭐(total: 11)
+- 수현: ⭐⭐⭐⭐⭐🌟(total: 14)
+- 민채: ⭐⭐⭐⭐🌟(total: 9)
 
 ### <hr>1주차
 [1210. [S/W 문제해결 기본] 2일차 - Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE&problemTitle=%5BS%2FW+%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0+%EA%B8%B0%EB%B3%B8%5D+2%EC%9D%BC%EC%B0%A8+-+Ladder1&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
@@ -593,9 +593,9 @@
 이 동네도 망가진 거 같고, 사람들도 다 망가진 거 같은데...<br>
 전혀 불행해 보이지가 않아요. 절대로.<br>
 그래서 좋아요, 날 안심시켜 줘서.<br><br>
- \- 드라마 <[나의 아저씨](https://youtu.be/IoMXFcQHGII?si=VuQBb5mNVXaNmP0X&t=149) 中> -
+\- 드라마 <[나의 아저씨](https://youtu.be/IoMXFcQHGII?si=VuQBb5mNVXaNmP0X&t=149) 中> -
 
-[[Programmers] 389480. 완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480)
+[[Programmers] 389480. 완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480) ❤️
 - 무작정 완전 탐색으로 해결하려하면 2^40이라는 지수 시간복잡도가 나오기 때문에 절대로 불가능할 것 같지만, 조금만 깊게 생각해보면 가지치기할 수 있는 경우가 많기 때문에 도전해 볼 수 있었다. 나이브하게 완전 탐색으로 문제를 해결하거나 DP를 이용한 풀이를 살펴 볼 수 있었다. DP로도 한 번 다시 풀어봐야할 것 같다.
 
 [[BOJ] 22254. 공정 컨설턴트 호석](https://www.acmicpc.net/problem/22254) ⭐
@@ -603,3 +603,26 @@
 
 [[BOJ] 16472. 고냥이](https://www.acmicpc.net/problem/16472)
 - 문제를 읽으면 투 포인터를 떠올릴 수 있을 것이다. 구간 내에 포함된 알파벳과 종류의 개수를 관리하면서 투 포인터 알고리즘을 적용하면 문제를 해결할 수 있다.
+
+### <hr>34주차
+ > 지금 삶이 힘든 당신,<br>
+ 이 세상에 태어난 이상<br>
+ 당신은 이 모든 걸 매일 누릴 자격이 있습니다.<br>
+ 대단하지 않은 하루가 지나고<br>
+ 또 별것 아닌 하루가 온다 해도,<br>
+ 인생은 살 가치가 있습니다.<br>
+ 후회만 가득한 과거와<br>
+ 불안하기만 한 미래 때문에<br>
+ 지금을 망치지 마세요.<br>
+ 오늘을 살아가세요, 눈이 부시게.<br>
+ 당신은 그럴 자격이 있습니다.<br><br>
+ \- 드라마 <[눈이 부시게](https://youtu.be/bVwG1sdShiY?si=8dBdRISN9N1MZgdi&t=157) 中> -
+
+[[Programmers] 388353. 지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353) ⭐
+- bfs를 응용하여 푸는 좋은 문제였다.
+
+[[BOJ] 21276. 계보 복원가 호석](https://www.acmicpc.net/problem/21276)
+- 위상 정렬이라는 것을 떠올릴 수 있다면, 어렵지 않게 풀 수 있는 문제였다.
+
+[[BOJ] 2662. 기업투자](https://www.acmicpc.net/problem/2662) ⭐
+- dp + 배낭 문제라는 것을 알더라도 점화식을 어떻게 세워야할 지 도무지 감이 오지 않는 문제였다. dp + dfs를 활용한 유일한 스터디원의 풀이를 살펴볼 수 있었다. 무조건 다시 풀어서 UnSolved에 올려야 할 문제!
