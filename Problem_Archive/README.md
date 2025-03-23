@@ -5,8 +5,8 @@
 > ⭐(알슐랭 스타): 모든 문제가 유익하지만 그 중에서도 다시금 풀어보면 좋을 것 같은 문제로, 과반수의 동의를 얻어야 획득이 가능해요.<br>
 > ❤️(좋아요): 알슐랭 스타에는 들지 못했지만 개인적으로 괜찮았던 문제로, 언제든 누구나 선정할 수 있어요.
 - 종우: ⭐⭐⭐⭐⭐(total: 11)
-- 수현: ⭐⭐⭐⭐⭐🌟(total: 14)
-- 민채: ⭐⭐⭐⭐🌟(total: 9)
+- 수현: ⭐⭐⭐⭐⭐⭐(total: 14)
+- 민채: ⭐⭐⭐⭐⭐(total: 9)
 
 ### <hr>1주차
 [1210. [S/W 문제해결 기본] 2일차 - Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE&problemTitle=%5BS%2FW+%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0+%EA%B8%B0%EB%B3%B8%5D+2%EC%9D%BC%EC%B0%A8+-+Ladder1&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
@@ -626,3 +626,26 @@
 
 [[BOJ] 2662. 기업투자](https://www.acmicpc.net/problem/2662) ⭐
 - dp + 배낭 문제라는 것을 알더라도 점화식을 어떻게 세워야할 지 도무지 감이 오지 않는 문제였다. dp + dfs를 활용한 유일한 스터디원의 풀이를 살펴볼 수 있었다. 무조건 다시 풀어서 UnSolved에 올려야 할 문제!
+
+### <hr>35주차
+> 이 지구상 어느 한 곳에 요만한 바늘 하나를 꽂고 저 하늘 꼭대기에서 밀씨를 또 딱 하나 떨어뜨리는 거야.<br>
+그 밀씨가 나풀나풀 떨어져서 그 바늘 위에 꽂힐 확률.<br>
+바로 그 계산도 안되는 기가막힌 확률로 니들이 지금 이곳,<br>
+지구상에 그 하도 많은 나라 중에서도 그 하고 많은 나라 중에서도 대한민국,<br>
+중에서도 서울,<br>
+서울 안에서도 세현 고등학교,<br>
+그 중에서도 2학년,<br>
+그거로도 모자라서 5반에서 만난 거다.<br>
+지금 니들 앞에 옆에 있는 친구들도 다 그렇게 엄청난 확률로 만난 거고,<br>
+또 나하고도 그렇게 만난거다.<br>
+그걸 인연이라고 부르는 거다.<br><br>
+\- 드라마 <[번지점프를 하다](https://www.youtube.com/shorts/kKHnAiTJlEY) 中> -
+
+[[BOJ] 2146. 다리 만들기](https://www.acmicpc.net/problem/2146)
+- 첫 A형을 풀었던 때가 희미하게 떠올랐던 문제, 다리 만들기 2를 풀어봤었다면 어렵지 않게 그래프 탐색을 통해 문제를 해결할 수 있을 것이다.
+
+[[BOJ] 22255. 호석사우루스](https://www.acmicpc.net/problem/22255) ❤️
+- 전형적인 그래프 탐색 문제이지만, 진행 차수에 따라 이동 방향이 제약된다는 점과 거리가 아닌 충격량을 최소로 해야한다는 점에서 최소힙 + 3차원 방문체크를 고려해야 하는 문제였다.
+
+[[CodeTree] 고대 문명 유적 탐사](https://www.codetree.ai/ko/frequent-problems/problems/ancient-ruin-exploration/description) ❤️
+- 구현 과정에서 백업해놔야 할 것이라던지, 신경써야 할 부분이 많기 때문에 그 부분에 주의해서 차근차근 구현하면 답을 구할 수 있는 문제였다.
