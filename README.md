@@ -23,21 +23,25 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 추후 문제를 풀고 
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[BOJ] 2146. 다리 만들기](https://www.acmicpc.net/problem/2146)
-- [[BOJ] 22255. 호석사우루스](https://www.acmicpc.net/problem/22255)
-- [[CodeTree] 고대 문명 유적 탐사](https://www.codetree.ai/ko/frequent-problems/problems/ancient-ruin-exploration/description)
+- [[BOJ] 21277. 짠돌이 호석](https://www.acmicpc.net/problem/21277)
+- [[BOJ] 1069. 집으로](https://www.acmicpc.net/problem/1069)
+- [[Programmers] 389479. 서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> 이 지구상 어느 한 곳에 요만한 바늘 하나를 꽂고 저 하늘 꼭대기에서 밀씨를 또 딱 하나 떨어뜨리는 거야.<br>
-그 밀씨가 나풀나풀 떨어져서 그 바늘 위에 꽂힐 확률.<br>
-바로 그 계산도 안되는 기가막힌 확률로 니들이 지금 이곳,<br>
-지구상에 그 하도 많은 나라 중에서도 그 하고 많은 나라 중에서도 대한민국,<br>
-중에서도 서울,<br>
-서울 안에서도 세현 고등학교,<br>
-그 중에서도 2학년,<br>
-그거로도 모자라서 5반에서 만난 거다.<br>
-지금 니들 앞에 옆에 있는 친구들도 다 그렇게 엄청난 확률로 만난 거고,<br>
-또 나하고도 그렇게 만난거다.<br>
-그걸 인연이라고 부르는 거다.<br><br>
- \- 드라마 <[번지점프를 하다](https://www.youtube.com/shorts/kKHnAiTJlEY) 中> -
+> ***한재희:***<br>
+&emsp;&emsp;​단장님, 야구 잘 모르신다고 했던 것 같은데...<br><br>
+> ***백승수:***<br>
+&emsp;&emsp;네, 지금도 잘 몰라요.​<br><br>
+> ***한재희:***<br>
+&emsp;&emsp;​원래 그렇게 남 시선을 잘 의식 안하세요?<br><br>
+> ***백승수:***<br>
+&emsp;&emsp;무슨 말입니까 그게?​<br><br>
+> ***한재희:***<br>
+&emsp;&emsp;​아, 저는 아닌데. 저 진짜 아닙니다?<br>
+&emsp;&emsp;근데, 사람들이 야구를 책으로 배운다고 막 비웃고 그러기도 하더라구요. 참, 에휴~<br><br>
+> ***백승수:***<br>
+&emsp;&emsp;남들이 비웃는게 무서워서 책으로도 안 배우면 누가 저한테 알려줍니까?<br>
+&emsp;&emsp;그럼 사람들이 알려줄 때까지 기다릴까요?<br>
+&emsp;&emsp;1년 뒤에도 야구를 모르는 게 진짜 창피한 것 아닙니까?<br><br>
+\- 드라마 <[스토브리그](https://youtu.be/V8963uVBrE8?si=OhZ4QbZs4RlrtmXf&t=350) 中> -
