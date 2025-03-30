@@ -23,25 +23,15 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 추후 문제를 풀고 
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[BOJ] 21277. 짠돌이 호석](https://www.acmicpc.net/problem/21277)
-- [[BOJ] 1069. 집으로](https://www.acmicpc.net/problem/1069)
-- [[Programmers] 389479. 서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)
+- [[CodeTree] 마법의 숲 탐색](https://www.codetree.ai/ko/frequent-problems/problems/magical-forest-exploration/description)
+- [[BOJ] 20182. 골목 대장  호석 - 효율성 1](https://www.acmicpc.net/problem/20182)
+- [[Programmers] 15961. 회전 초밥](https://www.acmicpc.net/problem/15961)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> ***한재희:***<br>
-&emsp;&emsp;​단장님, 야구 잘 모르신다고 했던 것 같은데...<br><br>
-> ***백승수:***<br>
-&emsp;&emsp;네, 지금도 잘 몰라요.​<br><br>
-> ***한재희:***<br>
-&emsp;&emsp;​원래 그렇게 남 시선을 잘 의식 안하세요?<br><br>
-> ***백승수:***<br>
-&emsp;&emsp;무슨 말입니까 그게?​<br><br>
-> ***한재희:***<br>
-&emsp;&emsp;​아, 저는 아닌데. 저 진짜 아닙니다?<br>
-&emsp;&emsp;근데, 사람들이 야구를 책으로 배운다고 막 비웃고 그러기도 하더라구요. 참, 에휴~<br><br>
-> ***백승수:***<br>
-&emsp;&emsp;남들이 비웃는게 무서워서 책으로도 안 배우면 누가 저한테 알려줍니까?<br>
-&emsp;&emsp;그럼 사람들이 알려줄 때까지 기다릴까요?<br>
-&emsp;&emsp;1년 뒤에도 야구를 모르는 게 진짜 창피한 것 아닙니까?<br><br>
-\- 드라마 <[스토브리그](https://youtu.be/V8963uVBrE8?si=OhZ4QbZs4RlrtmXf&t=350) 中> -
+> 이 복싱이라는 게 다운됐다고 해서 끝나는 게 아니다.<br>
+다시 일어나라고 카운트를 10초씩이나 주거든?<br>
+네가 너무 고되고 힘들면, 그 엎어진 자리에서 그대로 누워 있어라.<br>
+그러고 네 숨이 다시 돌아 오거든, 그때 다시 일어나서 딛고 싸우면 된다.<br>
+내 인생도 아마 뭐... 다섯이나 여섯쯤 세고 있으려나?<br><br>
+\- 영화 <[카운트](https://www.youtube.com/shorts/ZVYZHAggRpA) 中> -
