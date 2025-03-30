@@ -25,7 +25,7 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 추후 문제를 풀고 
 ### ✨ 이번주 문제 목록
 - [[CodeTree] 마법의 숲 탐색](https://www.codetree.ai/ko/frequent-problems/problems/magical-forest-exploration/description)
 - [[BOJ] 20182. 골목 대장  호석 - 효율성 1](https://www.acmicpc.net/problem/20182)
-- [[Programmers] 15961. 회전 초밥](https://www.acmicpc.net/problem/15961)
+- [[BOJ] 15961. 회전 초밥](https://www.acmicpc.net/problem/15961)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
