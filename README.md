@@ -23,15 +23,11 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 추후 문제를 풀고 
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[CodeTree] 마법의 숲 탐색](https://www.codetree.ai/ko/frequent-problems/problems/magical-forest-exploration/description)
-- [[BOJ] 20182. 골목 대장  호석 - 효율성 1](https://www.acmicpc.net/problem/20182)
-- [[BOJ] 15961. 회전 초밥](https://www.acmicpc.net/problem/15961)
+- [[BOJ] 10423. 전기가 부족해](https://www.acmicpc.net/problem/10423)
+- [[BOJ] 2306. 유전자](https://www.acmicpc.net/problem/2306)
+- [[BOJ] 6497. 전력난](https://www.acmicpc.net/problem/6497)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> 이 복싱이라는 게 다운됐다고 해서 끝나는 게 아니다.<br>
-다시 일어나라고 카운트를 10초씩이나 주거든?<br>
-네가 너무 고되고 힘들면, 그 엎어진 자리에서 그대로 누워 있어라.<br>
-그러고 네 숨이 다시 돌아 오거든, 그때 다시 일어나서 딛고 싸우면 된다.<br>
-내 인생도 아마 뭐... 다섯이나 여섯쯤 세고 있으려나?<br><br>
-\- 영화 <[카운트](https://www.youtube.com/shorts/ZVYZHAggRpA) 中> -
+> 헤맨 만큼 내 땅이다.<br><br>
+\- 유튜브 <[14F 일사에프](https://www.youtube.com/shorts/Ep9HRjsB588) 中> -
