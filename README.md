@@ -23,14 +23,12 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 추후 문제를 풀고 
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[Programmers] 389481. 봉인된 주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481)
-- [[BOJ] 2234. 성곽](https://www.acmicpc.net/problem/2234)
-- [[BOJ] 3108. 로고](https://www.acmicpc.net/problem/3108)
+- [[BOJ] 6086. 최대 유량](https://www.acmicpc.net/problem/6086)
+- [[BOJ] 20181. 꿈틀꿈틀 호석 애벌레 - 효율성](https://www.acmicpc.net/problem/20181)
+- [[BOJ] 2212. 센서](https://www.acmicpc.net/problem/2212)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> 다른 사람 대할 때는 연애편지 쓰듯 했다.<br>
-한 자, 한 자 배려하고 공들였다.<br>
-남은 한 번만 잘해줘도 세상에 없는 은인이 된다.<br>
-그런데 백만 번 고마운 은인에게는 낙서장 대하듯 했다.<br><br>
-\- 드라마 <[폭삭 속았수다](https://www.youtube.com/shorts/tNb6Jadl-C8) 中> -
+> ﻿​행복한 착각에 굳이 성급한 진실을 끼얹을 필요는 없다.<br>
+가끔은 착각해야 행복하다.<br><br>
+\- 드라마 <응답하라 1988 中> -
