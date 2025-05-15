@@ -23,12 +23,20 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 추후 문제를 풀고 
 <br><br>
 
 ### ✨ 이번주 문제 목록
-- [[BOJ] 6086. 최대 유량](https://www.acmicpc.net/problem/6086)
-- [[BOJ] 20181. 꿈틀꿈틀 호석 애벌레 - 효율성](https://www.acmicpc.net/problem/20181)
-- [[BOJ] 2212. 센서](https://www.acmicpc.net/problem/2212)
+- [[BOJ] 23843. 콘센트](https://www.acmicpc.net/problem/23843)
+- [[BOJ] 5972. 택배 배송](https://www.acmicpc.net/problem/5972)
+- [[BOJ] 18352. 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
 <br><br>
 
 ### ✨ 이번주 명대사&명언 한마디
-> ﻿​행복한 착각에 굳이 성급한 진실을 끼얹을 필요는 없다.<br>
-가끔은 착각해야 행복하다.<br><br>
-\- 드라마 <응답하라 1988 中> -
+> 그때 너는 울고 싶었구나 <br>
+그때 너는 위로받고 싶었구나 <br>
+그때 너는 사무치게 외로웠구나 <br><br>
+일에 쫓기며 부대끼며 <br>
+나는 ‘내가 제일 힘들다’ 생각했다. <br><br>
+내 코가 석자라고 <br>
+그러니 네 몫은 네가 감당하라고 <br>
+알아도 모르는 척 너를 외면했다. <br><br>
+네가 괴물이 된 게 아니라 <br>
+내가 널 괴물로 만들었어 <br><br>
+\- 드라마 <[아는 와이프](https://youtu.be/nO0q0mRjoDE?feature=shared&t=64) 中> -
