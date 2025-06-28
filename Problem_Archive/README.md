@@ -722,3 +722,82 @@
 
 [[BOJ] 3108. 로고](https://www.acmicpc.net/problem/3108) ❤️
 - 문제만 보면 명령어대로 움직이는 로직을 짜야할 것 같지만, 막상 들여다보면 그렇지 않다. 좌표위에 사각형들을 그릴 때 최소로 펜을 떼야하는 횟수를 구하는 문제였는데 단순히 bfs 탐색으로는 인접한 칸까지 탐색해버리기 때문에 여기에 조금 더해 서로소 집합, 즉 Union-find를 적용하면 풀 수 있는 문제였다. 개인적으로 이 문제는 굉장히 좋았다.
+
+### <hr>41주차
+> ﻿​행복한 착각에 굳이 성급한 진실을 끼얹을 필요는 없다.<br>
+가끔은 착각해야 행복하다.<br><br>
+\- 드라마 <응답하라 1988 中> -
+
+[[BOJ] 6086. 최대 유량](https://www.acmicpc.net/problem/6086)<br>
+[[BOJ] 20181. 꿈틀꿈틀 호석 애벌레 - 효율성](https://www.acmicpc.net/problem/20181)<br>
+[[BOJ] 2212. 센서](https://www.acmicpc.net/problem/2212)<br>
+
+### <hr>42주차
+> 그때 너는 울고 싶었구나 <br>
+그때 너는 위로받고 싶었구나 <br>
+그때 너는 사무치게 외로웠구나 <br><br>
+일에 쫓기며 부대끼며 <br>
+나는 ‘내가 제일 힘들다’ 생각했다. <br><br>
+내 코가 석자라고 <br>
+그러니 네 몫은 네가 감당하라고 <br>
+알아도 모르는 척 너를 외면했다. <br><br>
+네가 괴물이 된 게 아니라 <br>
+내가 널 괴물로 만들었어 <br><br>
+\- 드라마 <[아는 와이프](https://youtu.be/nO0q0mRjoDE?feature=shared&t=64) 中> -
+
+[[BOJ] 23843. 콘센트](https://www.acmicpc.net/problem/23843)<br>
+[[BOJ] 5972. 택배 배송](https://www.acmicpc.net/problem/5972)<br>
+[[BOJ] 18352. 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)<br>
+
+### <hr>45주차
+> 뜻대로 안되니깐 뜻대로 되는 몇 안 되는 일이 행복해지는 거야.<br>
+인생 자체가 어차피 뜻대로 안 되는 고통 속에 살기 때문에 갑자기 뜻대로 되면 행복해지는 거라니까?<br>
+맨날 놀아 봐 노는 거 재미 없다니까?<br><br>
+\- [정승제 생선님 강의 中](https://www.youtube.com/watch?v=OM-Gn5oG1ic) -
+
+[[BOJ] 14391. 종이 조각](https://www.acmicpc.net/problem/14391)<br>
+[[BOJ] 16938. 캠프 준비](https://www.acmicpc.net/problem/16938)<br>
+
+### <hr>46주차
+> 인생은 너무 짧아.<br>
+그래서 즐겁게 사는게 제일 중요해.<br>
+아무리 열심히 해서, 대학교를 가서, 여러분이 원하는 취업을 한다고 해도 길어 봤자 10년이에요. 그 생활이.<br>
+너무 짧아.<br>
+전성기인 40살을 기준으로 플러스 마이너스 10이 안돼요.<br>
+그거는 정말 순식간에 지나가거든.<Br>
+그래서 되게 억울해져. 짜증도 나고.<br>
+열심히 공부해서 원하는 대학을 나와서 취직을 하면 그게 내 평생 하게 될 일인 줄 알았는데 내 인생의 1/10 밖에 안되는구나.<br><br>
+\- [정승제 생선님 강의 中](https://www.youtube.com/shorts/0PxMswLqs6U) -
+
+[[CodeTree] 미생물 연구](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/microbial-research/description)<br>
+
+### <hr>47주차
+> 어떤 편의점은 가고 싶고 어떤 편의점은 가기 싫을 때 어디가 가기 싫어?<br>
+좀 불친절한 편의점은 가기 싫지?<br>
+100% 그거는 태도의 문제예요.<br>
+고객을 상대하는 태도가 아니라 알바를 하는 그 사람의 철학이 문제인 거야.<br>
+평생을 행복하게 살려면 태도를 바르게 해봐.<br>
+삶을 마주하는 태도.<br>
+음식점을 하던, 공부를 하던, 군생활을 하던, 애를 키우던, 태도에 따라서 인생이 바뀌어요.<br>
+학벌도 이기고, 집안 내력도 이기고, 집의 재산, 부모님의 능력 다 이길 수 있는 것은 태도 하나 밖에 없어.<br>
+그걸로 천하무적이 돼요.<br><br>
+\- [정승제 생선님 강의 中](https://www.youtube.com/shorts/DDBWhKUVlN4) -
+
+[[Programmers] 64062. 징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)<br>
+[[Programmers] 67257. 수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)<br>
+
+### <hr>48주차
+> 내가 하는 것에 확신이 있잖아.<br>
+누가 줄 수 있는게 아니야.<br>
+미슐랭 3스타 받고, 2스타 받고, 뭘 하더라도 <흑백 요리사> 나와도.<br>
+내가 하는 일에 확신이... 없을 때가 많이 있어.<br>
+근데 내가 되게 그랬어.<br>
+근데 그게 더 잘하기 위한 원동력이야.<br>
+그래서 많은 친구들이 '확신이 없어요' 하면, 그냥 하는거라고, 확신이 있어서 하는게 아니고.<br>
+계속 하는 거에요. 그냥 계속 찾아가는 건데.<br><br>
+어느 순간엔 자신을 좀 믿고서는 해주는 계기가 있어야 되는거고.<br><br>
+내가 부족하다는 생각이 어느 순간에는 TOP에 갈 수 있는 굉장히 큰 원동력이라고 생각해.<br><br>
+\- [셰프 안성재 中](https://www.youtube.com/shorts/1URPGEBiU9E) -
+
+[[BOJ] 16938. 캠프 준비](https://www.acmicpc.net/problem/16938)<br>
+[[BOJ] 2503. 숫자 야구](https://www.acmicpc.net/problem/2503)<br>
