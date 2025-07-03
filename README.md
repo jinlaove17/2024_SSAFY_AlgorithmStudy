@@ -34,21 +34,21 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 추후 문제를 풀고 
     <tr>
       <td>
         <a href="https://github.com/jinlaove17">
-          <img src="https://github.com/jinlaove17.png" width="160px" />
+          <img src="https://github.com/jinlaove17.png" />
         </a>
       <td>
         <a href="https://github.com/Pearl-K">
-          <img src="https://github.com/Pearl-K.png" width="160px" />
+          <img src="https://github.com/Pearl-K.png" />
         </a>
       </td>
       <td>
         <a href="https://github.com/MinchaeKwon">
-          <img src="https://github.com/MinchaeKwon.png" width="160px" />
+          <img src="https://github.com/MinchaeKwon.png" />
         </a>
       </td>
       <td>
         <a href="https://github.com/KSH00610">
-          <img src="https://github.com/KSH00610.png" width="160px" />
+          <img src="https://github.com/KSH00610.png" />
         </a>
       </td>
     </tr>
@@ -63,20 +63,13 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 추후 문제를 풀고 
 <br>
 
 ### 📆 이번주 문제 목록
-- [[BOJ] 16938. 캠프 준비](https://www.acmicpc.net/problem/16938)
-- [[BOJ] 2503. 숫자 야구](https://www.acmicpc.net/problem/2503)
+- [[Programmers] 154540. 무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
+- [[BOJ] 21773. 가희와 프로세스](https://www.acmicpc.net/problem/21773)
 
 <br>
 
 ### 🧑‍🏫 이번주 명대사&명언 한마디
-> *내가 하는 것에 확신이 있잖아.*<br>
-*누가 줄 수 있는게 아니야.*<br>
-*미슐랭 3스타 받고, 2스타 받고, 뭘 하더라도 <흑백 요리사> 나와도.*<br>
-*내가 하는 일에 확신이... 없을 때가 많이 있어.*<br>
-*근데 내가 되게 그랬어.*<br>
-*근데 그게 더 잘하기 위한 원동력이야.*<br>
-*그래서 많은 친구들이 '확신이 없어요' 하면, 그냥 하는거라고, 확신이 있어서 하는게 아니고.*<br>
-*계속 하는 거에요. 그냥 계속 찾아가는 건데.*<br><br>
-*어느 순간엔 자신을 좀 믿고서는 해주는 계기가 있어야 되는거고.*<br><br>
-*내가 부족하다는 생각이 어느 순간에는 TOP에 갈 수 있는 굉장히 큰 원동력이라고 생각해.*<br><br>
-\- [셰프 안성재 中](https://www.youtube.com/shorts/1URPGEBiU9E) -
+> 그런 말 들어봤어?<br>
+가득 찬 컵에서 흘러내린 물로 베풀어라.<br>
+그니까 자기부터 좀 챙기고, 남은 여유로 베풀어도 돼.<br><br>
+\- [드라마 <블랙독 中>](https://youtube.com/shorts/e1MRhIA9J_0?si=K0hBquMXX-Rinv-u) -
