@@ -801,3 +801,12 @@
 
 [[BOJ] 16938. 캠프 준비](https://www.acmicpc.net/problem/16938)<br>
 [[BOJ] 2503. 숫자 야구](https://www.acmicpc.net/problem/2503)<br>
+
+### <hr>49주차
+> 그런 말 들어봤어?<br>
+가득 찬 컵에서 흘러내린 물로 베풀어라.<br>
+그니까 자기부터 좀 챙기고, 남은 여유로 베풀어도 돼.<br><br>
+\- [드라마 <블랙독 中>](https://youtube.com/shorts/e1MRhIA9J_0?si=K0hBquMXX-Rinv-u) -
+
+[[Programmers] 154540. 무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)<br>
+[[BOJ] 21773. 가희와 프로세스](https://www.acmicpc.net/problem/21773)<br>
