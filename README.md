@@ -64,7 +64,7 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 추후 문제를 풀고 
 
 ### 📆 이번주 문제 목록
 - [[BOJ] 12891. DNA 비밀번호](https://www.acmicpc.net/problem/12891)
-- [[BOJ] 20208. DNA 진우의 민트초코우유](https://www.acmicpc.net/problem/20208)
+- [[BOJ] 20208. 진우의 민트초코우유](https://www.acmicpc.net/problem/20208)
 
 <br>
 
