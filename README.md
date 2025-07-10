@@ -63,13 +63,26 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 추후 문제를 풀고 
 <br>
 
 ### 📆 이번주 문제 목록
-- [[Programmers] 154540. 무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
-- [[BOJ] 21773. 가희와 프로세스](https://www.acmicpc.net/problem/21773)
+- [[BOJ] 12891. DNA 비밀번호](https://www.acmicpc.net/problem/12891)
+- [[BOJ] 20208. DNA 진우의 민트초코우유](https://www.acmicpc.net/problem/20208)
 
 <br>
 
 ### 🧑‍🏫 이번주 명대사&명언 한마디
-> 그런 말 들어봤어?<br>
-가득 찬 컵에서 흘러내린 물로 베풀어라.<br>
-그니까 자기부터 좀 챙기고, 남은 여유로 베풀어도 돼.<br><br>
-\- [드라마 <블랙독 中>](https://youtube.com/shorts/e1MRhIA9J_0?si=K0hBquMXX-Rinv-u) -
+> ***최승권:***<br>
+&emsp;&emsp;​우리 같이 가진 것 없이 태어난 것들... 공부해 봐야 어디 쓸 데도 없고.<br><br>
+> ***박새로이:***<br>
+&emsp;&emsp;​가진 거 없이 태어났어도 원하는 건 많아서요.<br><br>
+> ***최승권:***<br>
+&emsp;&emsp;​아니.. 전과자 회사에서 써주지도 않을거고.<br><br>
+> ***박새로이:***<br>
+&emsp;&emsp;​가난해서. 못 배워서. 범죄자라서 안된다고.<br>
+&emsp;&emsp;​안 될 거라고 미리 정해 놓고 그래서 뭘 하겠어요?<br>
+&emsp;&emsp;​해 보고 판단해야지.<br><br>
+(중략)<br><br>
+> ***박새로이:***<br>
+&emsp;&emsp;​공부? 노가다? 원양어선? 그렇게 시작하면 돼.<br>
+&emsp;&emsp;​필요한 건 다 할 거야.<br>
+&emsp;&emsp;​내 가치를 네가 정하지 마.<br>
+&emsp;&emsp;​내 인생 이제 시작이고 난, 원하는 거 다 이루면서 살 거야.<br><br>
+\- 드라마 <[이태원클라스](https://www.youtube.com/watch?v=Ka8gnRQrJNo) 中> -
