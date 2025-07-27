@@ -832,3 +832,10 @@
 
 [[BOJ] 12891. DNA 비밀번호](https://www.acmicpc.net/problem/12891)<br>
 [[BOJ] 20208. 진우의 민트초코우유](https://www.acmicpc.net/problem/20208)<br>
+
+### <hr>51주차
+> 꿈을 계속 간직하고 있으면 반드시 실현할 때가 온다.<br>
+\- 괴테 -
+
+[[Programmers] 147354. 테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)<br>
+[[Programmers] 72413. 합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)<br>
