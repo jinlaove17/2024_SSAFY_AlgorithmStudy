@@ -63,26 +63,12 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 추후 문제를 풀고 
 <br>
 
 ### 📆 이번주 문제 목록
-- [[BOJ] 12891. DNA 비밀번호](https://www.acmicpc.net/problem/12891)
-- [[BOJ] 20208. 진우의 민트초코우유](https://www.acmicpc.net/problem/20208)
+- [[Programmers] 340212. [PCCP 기출문제] 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)
+- [[BOJ] 20166. 문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166)
+- [[BOJ] 2159. 케익 배달](https://www.acmicpc.net/problem/2159)
 
 <br>
 
 ### 🧑‍🏫 이번주 명대사&명언 한마디
-> ***최승권:***<br>
-&emsp;&emsp;​우리 같이 가진 것 없이 태어난 것들... 공부해 봐야 어디 쓸 데도 없고.<br><br>
-> ***박새로이:***<br>
-&emsp;&emsp;​가진 거 없이 태어났어도 원하는 건 많아서요.<br><br>
-> ***최승권:***<br>
-&emsp;&emsp;​아니.. 전과자 회사에서 써주지도 않을거고.<br><br>
-> ***박새로이:***<br>
-&emsp;&emsp;​가난해서. 못 배워서. 범죄자라서 안된다고.<br>
-&emsp;&emsp;​안 될 거라고 미리 정해 놓고 그래서 뭘 하겠어요?<br>
-&emsp;&emsp;​해 보고 판단해야지.<br><br>
-(중략)<br><br>
-> ***박새로이:***<br>
-&emsp;&emsp;​공부? 노가다? 원양어선? 그렇게 시작하면 돼.<br>
-&emsp;&emsp;​필요한 건 다 할 거야.<br>
-&emsp;&emsp;​내 가치를 네가 정하지 마.<br>
-&emsp;&emsp;​내 인생 이제 시작이고 난, 원하는 거 다 이루면서 살 거야.<br><br>
-\- 드라마 <[이태원클라스](https://www.youtube.com/watch?v=Ka8gnRQrJNo) 中> -
+> 네가 헛되이 보낸 오늘은 어제 죽은 이가 그토록 갈망하던 내일이다.<br>
+\- 소포클레스 -
