@@ -91,7 +91,7 @@
 ### <hr>6주차
 > 분명 시간은 누구에게나 공평하게 흐른다.<br>
 하지만 그와 나의 시간은 그 농도가 너무나도 달랐다.<br><br>
-\- 드라마 <[이태원 클라쓰](https://www.youtube.com/watch?v=oLrAMT38prw)> 中 -<br>
+\- 드라마 <[이태원클라쓰](https://www.youtube.com/watch?v=oLrAMT38prw)> 中 -<br>
 
 [4530. 극한의 청소 작업](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AWO6cgzKOIEDFAWw&categoryId=AWO6cgzKOIEDFAWw&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=4) ❤️
 - 음... 일단 나에게는 어려웠다. 수의 범위가 최소 -999,999,999,999부터 최대 999,999,999,999까지로 굉장히 크지만, 이를 통해 아! 자리수를 통해서 무언가 계산을 해야겠구나 아이디어를 떠올릴 수 있다. 해당 범위 내에서 4가 들어간 수의 개수를 어떻게 계산할 수 있을까? 일단 공책을 펴고 4, 14, 24, 34, 40 ~ 49, ... 4가 들어간 숫자들을 적어보고 규칙성을 한 번 찾아보자. 규칙성을 발견해 수의 개수를 계산할 수 있다면 a, b의 부호에 따라 분기하여 적절히 처리해주자. 사실 이 풀이보다는 9진법을 사용해 해결하는 아이디어가 더 중요했던 것 같다.
@@ -268,7 +268,7 @@
 순간엔 편하겠지.<br>
 근데 말이야.<br>
 그 한 번들로 사람은 변하는거야.<br><br>
-\- 드라마 <[이태원 클라쓰](https://www.youtube.com/watch?v=VA8i54OyRos)> 中 -<br>
+\- 드라마 <[이태원클라쓰](https://www.youtube.com/watch?v=VA8i54OyRos)> 中 -<br>
 
 [[BOJ] 1234. 크리스마스 트리](https://www.acmicpc.net/problem/1234) ⭐
 - 사실 레벨이 최대 10이고, 주어진 조건을 만족하도록 각 레벨을 그룹으로 나누면 경우가 그렇게 많지 않다는 것을 알 수 있다. 그렇기 때문에 그룹을 나눴다면 그 그룹을 어떤 색으로 구성할 것인지에 대한 순열 값을 누적하여 기저에서 답을 누적하는 식으로 해결할 수 있었다. 이외에도 4차원 DP를 활용한 풀이를 살펴볼 수 있었다.
@@ -327,7 +327,7 @@
  &emsp;&emsp;네가 온 이후론 더 그러네...<br>
  &emsp;&emsp;가슴 뛰는 하루하루야.<br><br>
  &emsp;&emsp;혹시 알아? 살다보면 네 그 지겨운 일상에도 가슴 뛰는 일들이 생길지...<br><br>
-\- 드라마 <[이태원 클라쓰](https://www.youtube.com/shorts/1OMCT4c9FCA)> 中 -<br>
+\- 드라마 <[이태원클라쓰](https://www.youtube.com/shorts/1OMCT4c9FCA)> 中 -<br>
 
 [[BOJ] 25953. 템포럴 그래프](https://www.acmicpc.net/problem/25953) ⭐
 - 정점과 각 시간마다 가중치가 다른 간선이 주어질 때, 시간이 오름차순이 되도록 간선을 선택해 시작 정점에서 끝 정점까지의 최단거리를 구하는 문제였다. 나는 이전에 풀었던 인터넷 설치의 풀이 방법을 떠올려서 다익스트라 + 2차원 방문체크 방식으로 문제를 해결하였고, 다이나믹 프로그래밍으로 해결한 스터디원의 풀이도 살펴볼 수 있었다. 매번 전형적이게 다익스트라만 사용하는 문제가 아닌 응용이 필요했던 문제였다.
@@ -573,7 +573,7 @@
  &emsp;&emsp;그냥 지금 시작하면서 채워.<br>
  &emsp;&emsp;아끼다 뭐 된다는 말 알지?<br>
  &emsp;&emsp;무작정 부족해도 들이 밀어.<br><br>
- \- 드라마 <[나빌레라](https://youtu.be/dPDtYtR_kM4?si=hBTzzfK4mBbPaqCH&t=33) 中> -
+ \- 드라마 <[나빌레라](https://youtu.be/dPDtYtR_kM4?si=hBTzzfK4mBbPaqCH&t=33)> 中 -
 
 [[BOJ] 20165. 인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165) ⭐
 - 매 공격 시, 2차원 방문 체크 배열을 하나 더 선언해서 각 칸의 높이만큼 flag 값을 체크하며, 한 칸씩 나아가다가 flag가 false인 칸에 처음으로 도달하면 종료하는 방식으로 문제를 쉽게 해결할 수 있었다.
@@ -593,7 +593,7 @@
 이 동네도 망가진 거 같고, 사람들도 다 망가진 거 같은데...<br>
 전혀 불행해 보이지가 않아요. 절대로.<br>
 그래서 좋아요, 날 안심시켜 줘서.<br><br>
-\- 드라마 <[나의 아저씨](https://youtu.be/IoMXFcQHGII?si=VuQBb5mNVXaNmP0X&t=149) 中> -
+\- 드라마 <[나의 아저씨](https://youtu.be/IoMXFcQHGII?si=VuQBb5mNVXaNmP0X&t=149)> 中 -
 
 [[Programmers] 389480. 완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480) ❤️
 - 무작정 완전 탐색으로 해결하려하면 2^40이라는 지수 시간복잡도가 나오기 때문에 절대로 불가능할 것 같지만, 조금만 깊게 생각해보면 가지치기할 수 있는 경우가 많기 때문에 도전해 볼 수 있었다. 나이브하게 완전 탐색으로 문제를 해결하거나 DP를 이용한 풀이를 살펴 볼 수 있었다. DP로도 한 번 다시 풀어봐야할 것 같다.
@@ -616,7 +616,7 @@
  지금을 망치지 마세요.<br>
  오늘을 살아가세요, 눈이 부시게.<br>
  당신은 그럴 자격이 있습니다.<br><br>
- \- 드라마 <[눈이 부시게](https://youtu.be/bVwG1sdShiY?si=8dBdRISN9N1MZgdi&t=157) 中> -
+ \- 드라마 <[눈이 부시게](https://youtu.be/bVwG1sdShiY?si=8dBdRISN9N1MZgdi&t=157)> 中 -
 
 [[Programmers] 388353. 지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353) ⭐
 - bfs를 응용하여 푸는 좋은 문제였다.
@@ -639,7 +639,7 @@
 지금 니들 앞에 옆에 있는 친구들도 다 그렇게 엄청난 확률로 만난 거고,<br>
 또 나하고도 그렇게 만난거다.<br>
 그걸 인연이라고 부르는 거다.<br><br>
-\- 드라마 <[번지점프를 하다](https://www.youtube.com/shorts/kKHnAiTJlEY) 中> -
+\- 드라마 <[번지점프를 하다](https://www.youtube.com/shorts/kKHnAiTJlEY)> 中 -
 
 [[BOJ] 2146. 다리 만들기](https://www.acmicpc.net/problem/2146)
 - 첫 A형을 풀었던 때가 희미하게 떠올랐던 문제, 다리 만들기 2를 풀어봤었다면 어렵지 않게 그래프 탐색을 통해 문제를 해결할 수 있을 것이다.
@@ -666,7 +666,7 @@
 &emsp;&emsp;남들이 비웃는게 무서워서 책으로도 안 배우면 누가 저한테 알려줍니까?<br>
 &emsp;&emsp;그럼 사람들이 알려줄 때까지 기다릴까요?<br>
 &emsp;&emsp;1년 뒤에도 야구를 모르는 게 진짜 창피한 것 아닙니까?<br><br>
-\- 드라마 <[스토브리그](https://youtu.be/V8963uVBrE8?si=OhZ4QbZs4RlrtmXf&t=350) 中> -
+\- 드라마 <[스토브리그](https://youtu.be/V8963uVBrE8?si=OhZ4QbZs4RlrtmXf&t=350)> 中 -
 
 [[BOJ] 21277. 짠돌이 호석](https://www.acmicpc.net/problem/21277) ⭐
 - 퍼즐이 최대 50x50이므로 완전 탐색으로 접근해볼 수 있겠다는 생각이 든다. 큰 보드를 만들고, 가운데에 1번 퍼즐을 배치한 뒤 (0, 0)부터 2번 퍼즐을 놓고 회전을 고려하면서 넓이를 구해보는 방식으로 문제를 해결할 수 있었다. 이 과정에서 minR, minC, maxR, maxC의 값이 2번 퍼즐의 위치에 따라 달라지기 때문에 그점을 고려해야 한다는 점이 조금 어려웠던 문제였다.
@@ -683,7 +683,7 @@
  네가 너무 고되고 힘들면, 그 엎어진 자리에서 그대로 누워 있어라.<br>
  그러고 네 숨이 다시 돌아 오거든, 그때 다시 일어나서 딛고 싸우면 된다.<br>
  내 인생도 아마 뭐... 다섯이나 여섯쯤 세고 있으려나?<br><br>
- \- 영화 <[카운트](https://www.youtube.com/shorts/ZVYZHAggRpA) 中> -
+ \- 영화 <[카운트](https://www.youtube.com/shorts/ZVYZHAggRpA)> 中 -
 
 [[CodeTree] 마법의 숲 탐색](https://www.codetree.ai/ko/frequent-problems/problems/magical-forest-exploration/description) ❤️
 - 삼성 기출문제로, 문제가 더럽거나 그렇지는 않은데 고려해야할 것들이 많았던 시뮬레이션 문제로 다양한 생각을 해보며 연습하기 좋았다.
@@ -696,7 +696,7 @@
 
 ### <hr>39주차
 > 헤맨 만큼 내 땅이다.<br><br>
- \- 유튜브 <[14F 일사에프](https://www.youtube.com/shorts/Ep9HRjsB588) 中> -
+ \- 유튜브 <[14F 일사에프](https://www.youtube.com/shorts/Ep9HRjsB588)> 中 -
 
 [[BOJ] 10423. 전기가 부족해](https://www.acmicpc.net/problem/10423)
 - MST를 활용해 풀 수 있는 문제로, 간만에 프림 알고리즘을 사용하여 해결해 보았다.
@@ -726,7 +726,7 @@
 ### <hr>41주차
 > ﻿​행복한 착각에 굳이 성급한 진실을 끼얹을 필요는 없다.<br>
 가끔은 착각해야 행복하다.<br><br>
-\- 드라마 <응답하라 1988 中> -
+\- 드라마 <응답하라 1988> 中 -
 
 [[BOJ] 6086. 최대 유량](https://www.acmicpc.net/problem/6086)<br>
 [[BOJ] 20181. 꿈틀꿈틀 호석 애벌레 - 효율성](https://www.acmicpc.net/problem/20181)<br>
@@ -743,7 +743,7 @@
 알아도 모르는 척 너를 외면했다. <br><br>
 네가 괴물이 된 게 아니라 <br>
 내가 널 괴물로 만들었어 <br><br>
-\- 드라마 <[아는 와이프](https://youtu.be/nO0q0mRjoDE?feature=shared&t=64) 中> -
+\- 드라마 <[아는 와이프](https://youtu.be/nO0q0mRjoDE?feature=shared&t=64)> 中 -
 
 [[BOJ] 23843. 콘센트](https://www.acmicpc.net/problem/23843)<br>
 [[BOJ] 5972. 택배 배송](https://www.acmicpc.net/problem/5972)<br>
@@ -753,7 +753,7 @@
 > 뜻대로 안되니깐 뜻대로 되는 몇 안 되는 일이 행복해지는 거야.<br>
 인생 자체가 어차피 뜻대로 안 되는 고통 속에 살기 때문에 갑자기 뜻대로 되면 행복해지는 거라니까?<br>
 맨날 놀아 봐 노는 거 재미 없다니까?<br><br>
-\- [정승제 생선님 강의 中](https://www.youtube.com/watch?v=OM-Gn5oG1ic) -
+\- [정승제 생선님 강의](https://www.youtube.com/watch?v=OM-Gn5oG1ic) 中 -
 
 [[BOJ] 14391. 종이 조각](https://www.acmicpc.net/problem/14391)<br>
 [[BOJ] 16938. 캠프 준비](https://www.acmicpc.net/problem/16938)<br>
@@ -767,7 +767,7 @@
 그거는 정말 순식간에 지나가거든.<Br>
 그래서 되게 억울해져. 짜증도 나고.<br>
 열심히 공부해서 원하는 대학을 나와서 취직을 하면 그게 내 평생 하게 될 일인 줄 알았는데 내 인생의 1/10 밖에 안되는구나.<br><br>
-\- [정승제 생선님 강의 中](https://www.youtube.com/shorts/0PxMswLqs6U) -
+\- [정승제 생선님 강의](https://www.youtube.com/shorts/0PxMswLqs6U) 中 -
 
 [[CodeTree] 미생물 연구](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/microbial-research/description)<br>
 
@@ -781,7 +781,7 @@
 음식점을 하던, 공부를 하던, 군생활을 하던, 애를 키우던, 태도에 따라서 인생이 바뀌어요.<br>
 학벌도 이기고, 집안 내력도 이기고, 집의 재산, 부모님의 능력 다 이길 수 있는 것은 태도 하나 밖에 없어.<br>
 그걸로 천하무적이 돼요.<br><br>
-\- [정승제 생선님 강의 中](https://www.youtube.com/shorts/DDBWhKUVlN4) -
+\- [정승제 생선님 강의](https://www.youtube.com/shorts/DDBWhKUVlN4) 中 -
 
 [[Programmers] 64062. 징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)<br>
 [[Programmers] 67257. 수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)<br>
@@ -797,7 +797,7 @@
 계속 하는 거에요. 그냥 계속 찾아가는 건데.<br><br>
 어느 순간엔 자신을 좀 믿고서는 해주는 계기가 있어야 되는거고.<br><br>
 내가 부족하다는 생각이 어느 순간에는 TOP에 갈 수 있는 굉장히 큰 원동력이라고 생각해.<br><br>
-\- [셰프 안성재 中](https://www.youtube.com/shorts/1URPGEBiU9E) -
+\- [셰프 안성재](https://www.youtube.com/shorts/1URPGEBiU9E) 中 -
 
 [[BOJ] 16938. 캠프 준비](https://www.acmicpc.net/problem/16938)<br>
 [[BOJ] 2503. 숫자 야구](https://www.acmicpc.net/problem/2503)<br>
@@ -806,7 +806,7 @@
 > 그런 말 들어봤어?<br>
 가득 찬 컵에서 흘러내린 물로 베풀어라.<br>
 그니까 자기부터 좀 챙기고, 남은 여유로 베풀어도 돼.<br><br>
-\- [드라마 <블랙독 中>](https://youtube.com/shorts/e1MRhIA9J_0?si=K0hBquMXX-Rinv-u) -
+\- 드라마 <[블랙독](https://youtube.com/shorts/e1MRhIA9J_0?si=K0hBquMXX-Rinv-u)> 中 -
 
 [[Programmers] 154540. 무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)<br>
 [[BOJ] 21773. 가희와 프로세스](https://www.acmicpc.net/problem/21773)<br>
@@ -828,14 +828,22 @@
 &emsp;&emsp;​필요한 건 다 할 거야.<br>
 &emsp;&emsp;​내 가치를 네가 정하지 마.<br>
 &emsp;&emsp;​내 인생 이제 시작이고 난, 원하는 거 다 이루면서 살 거야.<br><br>
-\- 드라마 <[이태원클라스](https://www.youtube.com/watch?v=Ka8gnRQrJNo) 中> -
+\- 드라마 <[이태원클라쓰](https://www.youtube.com/watch?v=Ka8gnRQrJNo)> 中 -
 
 [[BOJ] 12891. DNA 비밀번호](https://www.acmicpc.net/problem/12891)<br>
 [[BOJ] 20208. 진우의 민트초코우유](https://www.acmicpc.net/problem/20208)<br>
 
 ### <hr>51주차
-> 꿈을 계속 간직하고 있으면 반드시 실현할 때가 온다.<br>
+> 꿈을 계속 간직하고 있으면 반드시 실현할 때가 온다.<br><br>
 \- 괴테 -
 
 [[Programmers] 147354. 테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)<br>
 [[Programmers] 72413. 합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)<br>
+
+### <hr>52주차
+> 네가 헛되이 보낸 오늘은 어제 죽은 이가 그토록 갈망하던 내일이다.<br><br>
+\- 소포클레스 -
+
+[[Programmers] 340212. [PCCP 기출문제] 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)<br>
+[[BOJ] 20166. 문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166)<br>
+[[BOJ] 2159. 케익 배달](https://www.acmicpc.net/problem/2159)<br>
