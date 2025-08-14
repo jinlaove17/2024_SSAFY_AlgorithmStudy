@@ -63,12 +63,31 @@ ${\textsf{\color{red}※ 문제를 풀지 못했다면, 추후 문제를 풀고 
 <br>
 
 ### 📆 이번주 문제 목록
-- [[Programmers] 340212. [PCCP 기출문제] 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)
-- [[BOJ] 20166. 문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166)
-- [[BOJ] 2159. 케익 배달](https://www.acmicpc.net/problem/2159)
+- [[Programmers] 92342. 양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)<br>
+- [[Programmers] 17678. [1차] 셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)<br>
 
 <br>
 
 ### 🧑‍🏫 이번주 명대사&명언 한마디
-> 네가 헛되이 보낸 오늘은 어제 죽은 이가 그토록 갈망하던 내일이다.<br>
-\- 소포클레스 -
+> 공부하기 싫으면 공부 안 해도 되는데<br>
+삶의 태도는 적극적으로 살라고.<br><br>
+뭔가를 해도 열정적으로.<br>
+그렇게 안하면, 너무 인생이 고통스러워져요.<br><br>
+진짜로 내가 못할 거 같지만, 결혼을 해서.<br>
+여러분 같은 아들, 딸이 있어.<br>
+근데 수학 공부를 내가 좀 설명할라 그러면, 자.<br>
+됐다.<br>
+내가 그때 '됐다'라고 할 수 있는 거는<br>
+하나라도 좋아하는게 있으면, 예를 들어서 운동에 미쳐 있어.<br>
+수학은 더럽게 하기 싫은데.<br>
+가지 말래도 체육관에 다녀서 운동을 정말 열심히 해.<br>
+그러면 충분하다 이거야. 내 말은.<br>
+훌륭하게 살 수 있어요.<br>
+그렇게 열정이 있으면. 그러면 돼요. 그러면.<br><br>
+그런데 얘가 맨날 잘라 그래.<br>
+게임도 안 하고, 친구도 안 만나고, 밥도 거의 안 먹고.<br>
+엄마, 아빠가 여행 가자 그러면 귀찮다 그러고.<br>
+그러면 위험한 거에요.<br>
+삶을 평생 불행하게 살거든. 그렇게 되면.<br><br>
+\- [정승제 생선님 강의](https://www.youtube.com/shorts/t-ayhClwP7I) 中 -
+> 
