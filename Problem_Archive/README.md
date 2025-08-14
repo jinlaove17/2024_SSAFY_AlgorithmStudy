@@ -847,3 +847,62 @@
 [[Programmers] 340212. [PCCP 기출문제] 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)<br>
 [[BOJ] 20166. 문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166)<br>
 [[BOJ] 2159. 케익 배달](https://www.acmicpc.net/problem/2159)<br>
+
+### <hr>53주차
+> ***마현이:***<br>
+&emsp;&emsp;​도망치지 않을게요.<br>
+&emsp;&emsp;맛으로 납득 시킬 거에요.<br>
+&emsp;&emsp;​할 수 있어요...<br><br>
+> ***박새로이:***<br>
+&emsp;&emsp;​도망쳐도 돼.<br>
+&emsp;&emsp;​아니지. 도망이 아니지.<br>
+&emsp;&emsp;​잘못한게 없잖아. 그치?<br><br>
+&emsp;&emsp;​저딴 시선까지 감당해야 할만큼 중요한 일이 아니야.<br>
+&emsp;&emsp;​네가 너인 것에, 다른 사람을 납득시킬 필요 없어.<br>
+&emsp;&emsp;​괜찮아.<br><br>
+\- 드라마 <[이태원클라쓰](https://www.youtube.com/watch?v=7A4d529KG6U)> 中 -
+
+[[BOJ] 14698. 전생했더니 슬라임 연구자였던 건에 대하여 (Hard)](https://www.acmicpc.net/problem/14698)<br>
+[[Programmers] 214288. 상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288)<br>
+
+### <hr>54주차
+> 이번에 데스매치도 어쨌든 되게 잘했는데...<br>
+제가 저를 못 믿어서...<br>
+정말 저를 믿어야겠어요.<br>
+내가 나를 안 믿어주면 누가 나를 믿어요.<br><br>
+되게 저 깊은 곳에서 나를 못 믿었다는 마음이 드네요.<br>
+여기서 잘 배워서 제 더 긴 인생에서는<br>
+좀 나를 예뻐해줄 수 있는 계기가 될 것 같아요.<br>
+나를 믿고.<br><br>
+이겼으면 더 좋았겠지만 뭐...<br>
+저 나름대로 값어치 있게 진 것 같아요 .<br><br>
+\- 예능 <[더 지니어스3:블랙가넷](https://youtu.be/GG9W87-P6rU?si=KrvhHFKZtHwlrpch&t=790)> 中 -
+
+[[Programmers] 250136. [PCCP 기출문제] 2번 / 석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)<br>
+[[Programmers] 60059. 자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)<br>
+
+### <hr>55주차
+> 공부하기 싫으면 공부 안 해도 되는데<br>
+삶의 태도는 적극적으로 살라고.<br><br>
+뭔가를 해도 열정적으로.<br>
+그렇게 안하면, 너무 인생이 고통스러워져요.<br><br>
+진짜로 내가 못할 거 같지만, 결혼을 해서.<br>
+여러분 같은 아들, 딸이 있어.<br>
+근데 수학 공부를 내가 좀 설명할라 그러면, 자.<br>
+됐다.<br>
+내가 그때 '됐다'라고 할 수 있는 거는<br>
+하나라도 좋아하는게 있으면, 예를 들어서 운동에 미쳐 있어.<br>
+수학은 더럽게 하기 싫은데.<br>
+가지 말래도 체육관에 다녀서 운동을 정말 열심히 해.<br>
+그러면 충분하다 이거야. 내 말은.<br>
+훌륭하게 살 수 있어요.<br>
+그렇게 열정이 있으면. 그러면 돼요. 그러면.<br><br>
+그런데 얘가 맨날 잘라 그래.<br>
+게임도 안 하고, 친구도 안 만나고, 밥도 거의 안 먹고.<br>
+엄마, 아빠가 여행 가자 그러면 귀찮다 그러고.<br>
+그러면 위험한 거에요.<br>
+삶을 평생 불행하게 살거든. 그렇게 되면.<br><br>
+\- [정승제 생선님 강의](https://www.youtube.com/shorts/t-ayhClwP7I) 中 -
+
+[[Programmers] 92342. 양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)<br>
+[[Programmers] 17678. [1차] 셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)<br>
